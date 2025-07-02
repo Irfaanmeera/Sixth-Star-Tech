@@ -1,0 +1,52 @@
+.blog-cont{
+    text-align: center;
+}
+.blog-cont h1{
+    text-align: center;
+    padding: 20px;
+}
+
+.blog-cont h2{
+    text-align: center;
+    padding: 20px;
+}
+
+.blog-cont p{
+padding: 3px 50px;
+text-align: justify;
+}
+.admin-sec h1 {
+    font-size: 2rem;
+}
+
+.blog-cont button {
+    padding: 8px 20px;
+    text-align: center;
+    color:white;
+    background-color: rgb(6, 51, 147);
+    margin-top: 30px;
+    border-radius: 3px;
+}
+.tab-content .tab-pane .container .row {
+    justify-content: flex-start;
+    padding: 20px;
+} 
+
+.loading-img Image {
+    width: 150px;
+    height: 150px;
+}
+.pagination-controls {
+    text-align: center;
+    padding: 25px 0px;
+}
+
+.pagination-controls button {
+    padding: 8px 15px;
+    border-radius: 5px;
+    font-size: 14px;
+    color: white;
+    background-color: #176abc;
+    margin: 0 17px;
+}
+

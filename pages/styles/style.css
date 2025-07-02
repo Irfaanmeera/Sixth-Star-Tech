@@ -1,0 +1,845 @@
+@tailwind base;@tailwind components;@tailwind utilities; @import url(@fortawesome/fontawesome-free/css/all.min.css);@import url(@flaticon/flaticon-uicons/css/all/all);.top-contact li a,.top-link li a{font-size:14px}.box-up,.nav li a,HTML .app-main{position:relative}.footer .single-footer h2,.footer .single-footer.f-link li a,.nav li .dropdown li a,.header .nav li a,.header .single-widget p{text-transform:capitalize;text-transform:capitalize}a,li,p{text-align:justify;}.footer .single-footer .social ul li a,.gsuite-com-sec,.gsuite-faq-sec,.gsuite-wp-sec,.rainmail-feat-sec .container .row .col-12 table tbody tr:nth-of-type(2n),.topbar,.webdev-tools-sec{background-color:#fff}.alt-gsuite-ban .col-md-6 button a,.alt-zimbra-ban .col-md-6 a,.appdev3 .flip-card-inner .flip-box-back p,.business-email-feat .col-lg-3 p,.carbonio-partner .col-lg-2 img,.cpanel-benifits .col-lg-5 img,.domain-feat-slider .slick-slider .slick-list .slick-track .slick-center p,.email-host-company-why img,.email-sol-banner .banner-fet ul li,.emailserver-banner .col-md-6 p,.entp-btn .btn2 a,.entp-cont .cont .cont1 h4,.entp-cont .cont .cont1 p,.entp-cont .cont .cont1 p a,.fleet-feat-1 .row .col-lg-4 .flip-box img,.flip-card-front img,.nav li a,.main-menu,.home-feature img,.home-stats img,.letterflip,.logos,.server-benifits .benefit img,.sftp-transfer-sec .container .row:nth-of-type(2) .col-lg-2 img,.spamfilter-ban img,.ssl-choose img,.testimo img,.top-contact li,.top-link li, .carousel .carousel-inner .carousel-item img,.zimbra-fet-first .row .col-lg-4 img{display:inline-block}.header-social i,.server-setup-faq .col-12 .accordion .accordion-item .accordion-header button,a,li,p{font-size:18px}.price-but{font-family:"Open Sans Hebrew",Sans-serif;padding:12px 15px;color:#fff;font-size:15px;font-weight:600;text-decoration:none;background-color:#0064c2;border-radius:5px}.gsuite-faq-sec .container .row .col-12 .row .col-md-6 p,.office-feat-sec .container .row .col-12 .row .col-md-6 p,.os-list ul li{line-height:30px}.cloud-banner,.cpanel-banner{align-self:center;align-content:start}p{font-family:Arial,Helvetica,sans-serif;font-weight:500}button{font-family:Roboto,sans-serif;border:none}h1,h2,h3,h4,h5,h6{font-family:"Noto Sans Hebrew",sans-serif;font-weight:600}.data-center-list li,.home-fet ul li,.incoming-spamfilter-para,.who-we-are-subheading .who-we-are-subcontent,a,li{font-family:Arial,Helvetica,sans-serif}a{text-decoration:none!important}li{list-style:none}dl,ol,ul{margin-bottom:0;padding-left:0}a,li{font-weight:500;text-decoration:none}@keyframes zoomIn{from{transform:scale(0)}to{transform:scale(1)}}.box-up{animation:.9s linear infinite MoveUpDown}@keyframes MoveUpDown{0%,100%{bottom:0}50%{bottom:30px}}.box-text-flip,.text-container{display:inline-block;font-size:24px}.letterflip{font-size:43px;transform-style:preserve-3d}.textflip{animation:2s infinite textflip-animation;color:#194edf}@keyframes textflip-animation{25%{transform:translateX(0) rotateY(90deg)}}.Header-sticky{position:sticky;top:0;z-index:99}.entp-tab .tab-content .tab-pane ul,.gsuiteForm form .formField,.header .navbar-collapse,.mailserver-tab .accordion-item button,.seo1-sec .container .row .col-12 .about-class,.spamfilter-faq .accordion-item{padding:0}.topbar{border-bottom:1px solid #eee;padding:10px}.top-link{float:left}.top-link li{margin-right:15px}.top-contact li:last-child,.top-link li:last-child{margin-right:0}.top-link li a{color:#2c2d3f;font-weight:400}.top-contact li a:hover,.top-link li:hover a{color:#1a76d1}.top-contact{float:right;display:contents}.top-contact li{margin-right:30px;color:#2c2d3f}.footer,.get-quote .btn,.header .nav li .dropdown li a,.managed-ser-banner .col-md-6 p,.sftp-ftp-sec p,.spamfilter-faq .accordion-item .accordion-header .accordion-button .accordion-button::after,.top-contact li a,.zimbra-bg-slider .container .row .col-12 .carousel .carousel-indicators .button,.zimbra-guide-sec .container .row .col-md-6 button a,.zimbra-reach .col-lg-2 h3,.zimbra-reach .col-lg-2 h4{color:#011c7a;font-weight:550}.top-contact li i{color:#1a76d1;margin-right:8px}.header .header-inner{background:#fff;z-index:999;width:100%;padding:5px 0}.get-quote{margin-top:12px}.header .logo{float:left;margin:5px}.header .navbar{background:0 0;box-shadow:none;border:none;margin:0;height:0;min-height:0}.header .nav li{margin-right:15px;float:left}.header .nav li:last-child,.dropdown-item{font-size:17px;color:#11009e;font-weight:600;padding:10px}.footer .footer-top{padding:30px 40px 20px;position:relative;text-align:center;background:#0d1c4e}.footer .single-footer h2{color:#fff;font-size:20px;font-weight:600;margin-bottom:40px;padding-bottom:20px;position:relative;text-align:left}.footer .single-footer h2::before{position:absolute;content:"";left:0;bottom:0;height:3px;width:50px;background:#fff}.footer .single-footer p{padding-top:10px;color:#fff;text-align:left!important;font-size:17px}.footer-link li{padding:5px;font-size:17px}.footer-link li i{color:#fff;margin-right:10px}.footer-link li a,.gsuit-banner-sec .container .row .col-md-6 p,.office-banner-sec .container .row .col-md-6 p{color:#fff;font-size:17px}.gsuit-banner-sec .container .row .col-md-6 h1{color:#fff}.footer .single-footer .social{margin-top:25px;text-align:left}.footer .single-footer .social li{display:inline-block;margin-right:10px}.footer .single-footer .social li a{height:34px;width:34px;line-height:34px;border:1px solid #fff;text-align:center;padding:0;border-radius:100%;display:block;color:#fff;font-size:16px}.cert-img{padding-bottom:10px}.cert-img img{margin:10px;width:81px;height:81px}.foot-address h3{color:#fff;font-weight:600;font-size:16px;text-align:left}.footer .single-footer.f-link li a{display:block;color:#fff;transition:.4s;font-weight:400;font-size:17px;text-align:left}.accordation-para,.single-footer .row .col-lg-6 ul li{padding:3px}.footer .copyright{background:#00124c;padding:25px 0;text-align:center;align-content:center}.footer .copyright .copyright-content p{color:#fff;text-align:right;margin:0}.slider{animation:20s linear infinite clientslidein;white-space:nowrap}.slider .logos img{padding:10px;display:inline-block;width:224px}.DomainForm form .row,.app-dev2 ul li,.banerlist,.email-host-company-feat .tab-content .tab-pane .tab-con,.emailhosting-why .col-12 ul li,.fleet-why ul li,.fleetForm form .row,.mailForm form .row,.mailserver1 .col-1 ul li,.os-list ul li,.reseller-os-list .list ul li,.review{display:flex}@keyframes clientslidein{from{transform:translate3d(0,0,0)}to{transform:translate3d(-500%,0,0)}}.server-banner-sec{padding:2px}.server-banner-sec .container{background-image:url(https://res.cloudinary.com/dwyn5jgh3/image/upload/v1722056702/home-banner1_lnw69y.webp);background-size:cover;background-position:0;background-repeat:no-repeat}.career-container-banner-content,.emailarchForm,.server-banner-sec .container .row{padding:50px}.head-menu{align-content:center;height:90px}.sticky-header{position:sticky;top:0;z-index:999;background-color:#fff;width:100%;box-shadow:0 2px 4px rgba(0,0,0,.1);padding:0}.price,.server-benifits .benefit{box-shadow:0 0 5px 0 rgba(0,0,0,.5)}.heading,.headingslide{animation:none;font-weight:550}.heading.animate{animation:1s ease-out forwards zoomIn}.fa-circle-check,.fa-square-check{color:#5cb85c;font-size:14px;margin-right:8px}.banner-but{background-color:transparent;background-image:linear-gradient(180deg,#1c40f2 0,#0064c2 100%);border-radius:5px;margin:12px 20px}.server-1{color:#1400bd;font-size:40px;font-weight:600;padding:30px 0}.list1 li,.list2 li{color:#003b77;font-weight:600;padding:5px 0}.feticon-head{font-size:18px;font-weight:600}.feticon i{color:#fff;font-size:40px;padding:30px;background-color:#1e2374;border-radius:50%;width:100px}.feticon,.feticon-head{color:#363636;padding:10px;text-align:center}.server{font-size:30px;color:#11009e;text-align:center;padding:20px 0 10px}.feature-sec,.ha-elem-sec,.ha-infa-sec,.office-faq .accordion-item,.office-faq .accordion-item .accordion-header .accordion-button,.pricing,.server-os-sec,.ssl-faq-sec .accordion-item .accordion-button{background-color:#f7fbff}.spec-l{color:#1e2374;font-weight:550}.row{--bs-gutter-x:0;justify-content:center}#blinking{font-size:12px;animation:.9s infinite blinkingText;padding:10px 15px;background-color:#193dec;font-weight:700;border-radius:8px}@keyframes blinkingText{0%,60%,99%{color:#ffc800}100%,49%{color:#fff}}.head-but-1{background:0 0!important}.home-feature-sec,.home-stats-sec,.homesec{background-size:cover}.cloud-banner,.home-feature-sec,.home-stats-sec,.homesec{background-repeat:no-repeat}.head-but-1 a{color:#fff!important;font-size:11px!important;font-weight:600;text-transform:uppercase!important;background-color:transparent!important;background-image:linear-gradient(180deg,#1c40f2 0,#1031d6 100%);padding:10px 15px!important;border-radius:8px!important}.c2a a,.price,.review,.server-social i{border-radius:5px}.head-but-1 a:hover{background-image:linear-gradient(180deg,#1031d6 0,#1c40f2 100%)}.business-email-demo .col-md-6 button a:hover,.c2a a:hover{background-image:linear-gradient(180deg,#1c40f2 0,#0064c2 100%)}.price-but:hover{color:#fff;background-color:#1c40f2;padding:12px 15px}.price{background-color:#fff;width:250px!important;min-height:300px;padding:10px;scale:0.96;margin:0 15px}.price:hover{scale:1;transition:.3s ease-out}.price h3{color:#000a66;font-size:22px;font-weight:700}.alt-gsuite-ban .col-md-6 p,.alt-rainmail-bansec .container .row .col-md-6 h1,.alt-rainmail-bansec .container .row .col-md-6 h3,.alt-rainmail-bansec .container .row .col-md-6 p,.email-sol-comm .col-12 h2,.formField,.ha-banner .row .ban-left-1 p,.os-list ul li,.price button,.price h1,.price ul,.zimbra-guide-sec .container .row .col-md-6 p{padding:10px 0}.price ul,.second-container-column1-content{padding-left:10px}.entp-tab .tab-content .tab-pane ul li,.fet-tab-con .tab-pane ul li,.price ul li{padding:5px 0}.fleet-faq,.fleet-whychoose,.managed-ser-com .col-12 .comparison-table tbody tr:nth-child(2n),.server-bene-sec,.server-faq,.server-h4{background-color:#f7f7f7}.server-benifits{padding-top:20px}.server-benifits .benefit{width:25%;border-radius:10px;height:345px}.fet-tab-con .tab-pane p,.ser-para{padding:0 20px}.server-benifits h3{color:#000a66;font-weight:700;padding:10px;font-size:22px}.server-benifits img:hover{scale:1.1;transition:.4s ease-out}.server-feat-tab{padding-top:30px;width:1200px}.fet-tab-con .tab-pane ul li i{color:#000a66;font-size:21px}.server-tab-title ul li a{text-align:center;width:200px;height:50px}.tab-pane ul{padding:0 0 20px 20px}.gsuite-com-sec .container .row .col-12 h2,.nav-link{color:#11009e}.nav-tabs .nav-item.show .nav-link,.nav-tabs .nav-link.active{background-image:url(https://res.cloudinary.com/dwyn5jgh3/image/upload/v1722057151/choosesss_vpjlbq.webp);background-position-y:center;background-size:cover;color:#012c66;font-weight:600;background-color:#fff0;align-content:center}.call-t0-action-sec{background-color:#1e2374;padding:10px}.c2a,.fleet-c2a{display:flex;height:150px;align-content:center}.c2a a{background-color:transparent;background-image:linear-gradient(180deg,#0064c2 0,#1c40f2 100%);color:#fff;font-size:20px;padding:12px 24px}.c2a h4,.fleet-c2a h3{color:#fff;font-size:32px;font-weight:600}.c2a div,.domain-why .col-lg-3 .row .col-md-6,.domain-why .col-lg-4 .row .col-md-4,.email-arch-block1 .col-md-6{align-content:center;text-align:center}.os-img:hover{scale:1.1;transition:.4s ease-in-out}.os-sec-left .col,.server-address{width:90%}.os-list ul li i{padding:5px 10px;color:#1c40f2;font-size:20px;font-weight:700}.slideInRight{animation-name:slideInRight}.slideInUp{animation-duration:.6s;animation-timing-function:ease-out 500ms;animation-name:slideInUp}.headingslide.animate{animation:1.2s cubic-bezier(.5,1,.25,1) forwards slideIn}@keyframes slideIn{from{transform:translateX(-100%);opacity:0}to{transform:translateX(0);opacity:1}}@keyframes slideInUp{from{transform:translate3d(0,100%,0);visibility:visible}to{transform:translate3d(0,0,0)}}@keyframes slideInRight{from{transform:translate3d(100%,0,0);visibility:visible}to{transform:translate3d(0,0,0)}}.bulk-email-proud .col-12 .row .col-lg-3,.clients-section2,.cpanel-faq-sec h3,.cpanel-os-sec .container .row .col-12 h3,.crm-why-us-sec,.email-arch-block1,.email-arch-block1-sec,.email-arch-form-sec,.email-host-company-feat .tab-content,.emailhosting-why-sec,.hmsfeat1-sec,.home-1,.mailserver2-sec,.review-sec,.sftp-banner-sec,.sftp-contact-sec,.spamfilter-feat-sec,.spamfilter-trail .col-md-6 .collapse .card .trail ul,.sslForm,.whysixthstar-second-container-content1{padding:10px 30px}.review{box-shadow:0 12px 50px 0 rgba(125,125,125,.10196078431372549);height:120px;width:300px;padding:20px;justify-content:center;background-color:#fff}.domain-banner-sec .container .row .col-md-6,.email-arch-banner .col-md-6,.email-sol-banner,.emailserver-banner .col-md-6,.enterp-banner-sec .container .row .col-md-6,.itsupport-client .col-md-6,.managed-ser-banner .col-md-6,.managed-ser-spec-con .col-md-6,.rating,.spamfilter-ban{align-content:center}.review-sec-items{width:30%}.rewiew-img{width:200px}.carbonio-partner-sec,.crm-provider-sec,.crm-whatdo-sec,.testimonial{background-color:#fff;padding:30px}.testimo-name{color:#c24900;font-size:21px}.app-radio-group .radio-group-item label,.home-feature .col-lg-2 p,.testimo h5{font-size:14px}.testimo p{margin:0 80px}.fa-chevron-left,.fa-chevron-right{color:#1c40f2;font-size:23px;font-weight:700}.cpanel-beneifit-sec,.server-contact-sec{background-color:#fdfdfd}.dedicated-faq .accordion-item button,.gsuite-faq .accordion-item button{font-size:18px;font-weight:500}.dedicated-faq .accordion-item .accordion-body,.gsuite-faq .accordion-item .accordion-body{font-size:16px;padding:20px;text-align:justify}.accordion-item{padding:8px}.banner-fet,.emailhosting-why .col-12 ul,.managed-ser-spec,.server-sales,.server-support{padding:20px 0}.accordation1-list1,.data-center-last-column2 li,.privacypolicy-section2-para li,.server-sales ul li,.server-support ul li,.termsofservices-section2-para li{padding:5px}.server-sales ul li i,.server-support ul li i{font-size:20px;color:#0064c2;margin-right:10px}.server-sales ul,.server-support ul{margin:0;padding:0}.server-social i{font-size:25px;padding:10px;margin:5px;color:#fff}.serverForm{padding:40px;background-color:#f6fcff}.DomainForm form label,.fleetForm form label,.mailForm form label,.sftpForm form label,form label{font-size:17px;padding:5px;font-weight:600}.DomainForm form button,.fleetForm form button,.mailForm form button,.sftpForm form button,form button{background-color:#066aab;padding:8px 30px;color:#fff;font-weight:500px;border-radius:3px;font-size:18px}form .btn{background-color:#066aab;color:#fff}.home-feature-sec>background-overlay,.homebgover{background-color:#000A2AA3;opacity:1;transition:background .3s,border-radius .3s,opacity .3s}form .btn:hover{background-color:#0071bd;color:#fff}form input,form select,form textarea{width:100%;height:40px;border-radius:5px;border-width:1px;padding:10px;font-size:15px}.homebanner{align-content:start;padding:15px}.homesec{background-image:url(https://res.cloudinary.com/dwyn5jgh3/image/upload/v1726145324/home-banner-bg_eqodqu_k3yrm4.webp);width:100%;height:500px}.homebanner .row .ban-left-1{width:45%}.homebanner .row .ban-right{width:55%}.ban-right img{width:580px;height:480px}.home-1 h1{color:#fff;font-size:60px;font-weight:600;padding:5px 0 0}.home-1 h2:nth-of-type(2){font-size:65px;color:#fff;font-weight:600;padding:0;margin:0}.home-1 h2:first-of-type{color:#fff;font-weight:600;font-size:60px;padding:0;margin:0}.home-fet ul li{padding:2px 0;color:#fff;font-size:15px}.home-fet{justify-content:left}.home-feature .col-lg-2{background-color:#fff;border-radius:10px}.home-feature-sec{background-image:url(https://res.cloudinary.com/dwyn5jgh3/image/upload/v1737635169/home-bg-2_zqzn9o_11zon_hydgiz.webp);background-attachment:fixed}.homebgover{padding:10px 10px 30px}.home-feature-sec h2{font-size:45px;color:#fff;font-weight:600;padding:30px 0 10px}.home-feature .col-lg-2 h3{font-size:15px;font-weight:600}.home-stats img{border-radius:50px}.home-stats-sec{background-image:url(https://res.cloudinary.com/dwyn5jgh3/image/upload/v1726145410/6865227_ypmks2.webp);padding:80px 0;background-attachment:fixed}.featshbt,.fleet-why-us .col-md-6 a,.payroll-software .container .row .col-12 .row .col-md-6 a,.shbt{font-family:Urbanist,Sans-serif;background-image:linear-gradient(95deg,#1c40f2 .64%,#0064c2 98.23%)}.home-stats .col-lg-3 h3{color:#fff;font-size:30px;font-weight:700}.home-why-sec{background-color:#fff;padding:40px}.gsuite-faq,.home-why-sec h3{padding-bottom:30px}.home-why-1 img{position:sticky;top:80px;width:100%;height:400px}.home-why-1{width:40%}.home-why-2{width:60%}.home-why-cont .col-lg-4 h3{font-size:15px;font-weight:700}.home-why-cont .col-lg-4 p{font-size:13px;font-weight:500}.client-slider{overflow:hidden;padding:10px 0 20px}.featshbt,.shbt{color:#fff;font-size:14px;font-weight:600;background-color:transparent;padding:10px 20px;border-radius:5px;margin:30px}.featshbt:hover,.shbt:hover{background:#1c40f2;text-decoration:none}.featshbt:focus,.shbt:focus{text-decoration:none}.fetsecshow,.secshow{display:block!important}.zimbra-email-fetsec{background-color:#f5f5f5}.zimbra-email-fetsec .container .row .col-12 h2{font-size:35px}.serverForm{border-radius:8px}.features-box1{animation-name:animate-pop;animation-timing-function:cubic-bezier(0.26,0.53,0.74,1.48);animation-duration:1.5s}@keyframes animate-pop{0%{opacity:0;transform:scale(1.5,1.5)}100%{opacity:1;transform:scale(1,1)}}.reseller-whychoose-sec,.ssl-whychoose-sec,.vps-whychoose-sec{background-image:url(https://res.cloudinary.com/dwyn5jgh3/image/upload/v1722082002/Why-To-buy-SS-bg_dcovzh.webp);background-repeat:no-repeat;background-size:cover}.Business-mail-banner .col-md-6 img,.alt-gsuite-bansec .container .row .col-md-6 img,.alt-rainmail-bansec .container .row .col-md-6 img,.ban-right-1 img,.business-email-demo .col-md-6 img,.fleet-mange-sec .container .row .col-12 .row .col-md-6 img,.fleet-why-img img,.mailserver-cta .col-12 .row .col-md-6 img,.sftp-banner-sec .container .row .col-md-6:nth-of-type(2) img,.sftp-why .col-md-6 img,.spamfilter-ban img,.spamfilter-feat-sec .container .row .col-md-6 img,.vps-whychoose-1 img{width:auto;height:auto}.vps-whychoose-2 a{padding:15px 20px;background-color:#0058ad;color:#fff;font-weight:500;font-size:17px;border-radius:8px}.vps-whychoose-slide .carousel-inner .carousel-item h3{font-size:25px;color:#001042;padding:20px 0}.vps-whychoose-slide .carousel-inner .carousel-item p{font-size:20px;padding:5px 0 20px}.vps-os-list ul li{width:250px}.vps-os-list ul li i{padding-right:10px;color:#1c40f2;font-size:20px;font-weight:700;width:40px}.cloud-banner{min-height:550px;background-image:url(https://res.cloudinary.com/dwyn5jgh3/image/upload/v1722058498/cloudhosting-bg-pc_e4hvtp.webp);background-position:0 -50px;background-size:cover}.cloud-server-1{color:#194edf;font-size:40px;font-weight:600;padding:30px 0}.reseller-os-list h4{text-align:center;color:#000a66;padding:20px;font-size:25px}.reseller-os-list .list ul li i{color:#1c40f2;font-size:20px;padding:5px;margin-right:10px}.business-email .accordion-item .accordion-collapse .accordion-body p,.reseller-os-list .list ul li p,.seo-banner-fet ul li{font-size:16px}.reseller-faq .accordion-item .accordion-button{color:#000744;font-size:20px;font-weight:550}.reseller-faq .accordion-item .accordion-collapse ol{padding-left:40px}.reseller-faq .accordion-item .accordion-collapse ol li{list-style:decimal}.zimbra-bg-slider{background-color:transparent;background-image:linear-gradient(90deg,#071e98 10%,#3a54ea 100%);height:650px;width:100%}.email-arch-block1 .col-md-6 p,.zimbra-slide .row .col-md-6{text-align:justify}.zimbra-slide .row .col-md-6 h3{color:#fff;font-size:22px;padding:12px 30px;font-weight:600;display:inline;background-color:#0e25a0;border-radius:30px;text-align:left}.zimbra-slide .row .col-md-6 h1,.zimbra-slide .row .col-md-6 h2{color:#fff;padding:30px 0 5px;font-family:"Open Sans",Sans-serif;font-size:40px;text-align:left}.zimbra-slide .row .col-md-6 p{color:#fff;padding:20px 0}.zimbra-slide .row .col-md-6 button a{background-color:#b30e00;padding:12px 15px;color:#fff;font-size:17px;border-radius:4px}.zimbra-bg-slider .container .row .col-12 .carousel .carousel-indicators [data-bs-target]{background-color:#d1d1d100;flex-wrap:nowrap;display:flex}.zimbra-bg-slider .container .row .col-12 .carousel button i{top:30%;left:-10%;color:#fff}.slide-con-left{top:50%;left:26%;display:flex;flex-direction:column}.slide-con-left button i{color:#fff;font-size:15px;border:1px;border-radius:50px;padding:5px;top:50%;left:-10%}.ha-infra .carousel .carousel-control-prev,.zimbra-bg-slider .container .row .col-12 .carousel .carousel-control-prev{top:80%}.zimbra-bg-slider .container .row .col-12 .carousel .carousel-control-next{top:80%;right:80%}.zimbra-slide-tab-sec{background-color:#eceffe;padding-top:240px;padding-bottom:200px}.zimbra-btn{font-family:"Open Sans",Sans-serif;font-weight:500;text-decoration:none;fill:#000000;color:#000;background-color:rgba(2,1,1,0);border:1px solid #000!important;border-radius:1px;padding:10px 20px;margin-top:10px}.zimbra-client-sec{width:1280px;justify-content:center}.zimbra-client-sec .container{background-color:#fff;border-radius:15px;height:270px;position:absolute;top:680px;left:8%;right:10%}.zimbra-client-sec .container .row .col-12 p{font-weight:500;font-size:30px;padding:20px}.email-arch-why,.gsuiteForm form,.zimbra-client-sec .container .row .col-12{display:flex;justify-content:space-around}.zimbra-guide-sec{background-color:#ffffff00;position:relative}.zimbra-guide-sec .container .row .col-md-6 img{width:350px;height:240px;display:inline-block}.zimbra-guide-sec .container{width:90%;height:300px;background-color:#fff;top:20px;border-radius:10px;left:8%;right:10%;z-index:9;margin-top:-200px;padding:30px;position:absolute;align-content:center}.carbonio-contact-sec .container-1,.zimbra-contact .container-1{width:100%!important;background-size:cover;background-repeat:no-repeat}.zimbra-guide-sec .container .row .col-md-6 button a{font-size:16px;padding:12px 15px;font-weight:600;text-decoration:none;fill:#FFFFFF;color:#fff;background-color:#b30e00;border-radius:5px}.zimbra-guide-sec .container .row .col-md-6 h2{font-size:30px;font-weight:500;padding:10px 0}.zimbra-reach-sec{padding-top:100px;padding-bottom:50px;background-color:#0a1a7c;position:relative}.zimbra-reach-sec .container .row .col-12 h2{color:#fff;font-size:50px;padding:40px}.zimbra-reach .col-lg-2 h3{font-size:60px}.zimbra-contact .container-1{background-image:url('https://res.cloudinary.com/dwyn5jgh3/image/upload/v1722248185/ha-contact-bg_mwcrcw.webp');padding:40px}.zimbra-contact .container-1 .col-md-6{border-radius:10px}.carbonio-tab-img{width:350px;height:280px}.zimbra-slide-tab-title{padding-bottom:1px}.carbonio-partner-sec .container .row .col-12 .row{justify-content:space-around}.carbonio-partner-sec .container .row .col-12 h2,.domain-ban-text,.webdev-tools-sec .container .row .col-12 h3{font-size:45px}.bulk-email-feature .col-12 p,.bulk-email-tab-title .nav-fill .nav-item .nav-link,.carbonio-partner .col-lg-2,.clients-container-banner-content,.email-hosting-fetaure .col-12,.entp-slider div,.ha-clust .col-md-6 div,.managed-ser-spec-con .col-md-6:nth-of-type(2),.payroll-slider div,.rainmail-feat-sec .container .row .col-12,.spamfilter-trail .col-md-6,.ssl1-sec .container .row .col-12,.webdev-slider div{text-align:center}.carbonio-exp-sec{background-color:#162788;padding:30px}.carbonio-exp-sec .container .row .col-md-6 p{color:#fff;font-size:30px;font-weight:600}.carbonio-exp-sec .container .row .col-md-6 button a{font-family:"Open Sans",Sans-serif;background-color:#b30e00;padding:12px 25px;border-radius:5px}.carbonio-exp-sec .container .row .col-md-6 a{color:#fff;font-size:15px;font-weight:600;text-transform:uppercase;text-decoration:none}.carbonio-exp-sec .container .row .col-md-6 ul li{margin:20px;padding:15px 40px;border-radius:15px;background-color:#fff;font-size:25px;color:#000;font-weight:600;display:inline-block}.carbonio-exp-sec .container .row .col-md-6 ul li:hover{cursor:pointer;transform:translate(var(--e-transform-translateX),var(--e-transform-translateY));--e-transform-translateX:1px;--e-transform-translateY:-3px;transition:.3s ease-out}.carbonio-contact-sec .container-1{background-image:url('https://res.cloudinary.com/dwyn5jgh3/image/upload/v1722248222/carbonio-contact-bg_vgwgoe.webp');padding:40px}.gsuit-banner-sec,.gsuite-talk-sec{background-color:#1a63d6;padding:30px}.gsuit-banner-sec .container .row .col-md-6 h2,.office-banner-sec .container .row .col-md-6 h1{color:#fff;font-size:32px}.gsuit-banner-sec .container .row .col-md-6 button a{background-color:#f08e28;padding:12px 20px;border-radius:10px;color:#fff}.gsuit-banner-sec .container .row .col-md-6:first-of-type img,.office-banner-sec .container .row .col-md-6:first-of-type img{background-color:#fff;border-radius:30px;padding:5px 20px}.gsuit-banner-sec .container .row .col-md-6:nth-of-type(2) img{width:550px;height:413px}.gsuite-com-sec .container .row .col-12 img{width:456px;height:260px;display:inline-block}.gsuite-keyfeat-sec{background-color:#f9fafc;padding:30px}.gsuite-keyfeat .col-md-6{text-align:start}.gsuite-keyfeat-img img{width:470px;height:340px}.gsuite-keyfeat-sec .container .row .col-md-6 button a{background-color:#0064c2;padding:12px 20px;border-radius:5px;color:#fff}.alt-gsuite-ban .col-md-6 button:hover,.alt-rainmail-bansec .container .row .col-md-6 a:hover,.alt-zimbra-ban .col-md-6 a:hover,.gsuite-keyfeat-sec .container .row .col-md-6 button:hover,.gsuiteForm form button,.ha-banner .row .ban-left-1 button:hover,.rainmail-feat-sec .container .row .col-12 a:hover,.ssl-banner .col-md-6 a:hover{background-color:#1c40f2}.gsuiteForm form button{color:#fff;padding:5px 20px;font-size:18px;border-radius:3px}.gsuiteForm form input{height:40px;width:280px;padding:10px;border-radius:3px;border-color:#ffff;color:#fff}.gsuiteForm form input::placeholder{color:#fff}.gsuite-file-sec .container .row .col-12 .row .col-md-6 img{width:500px;height:320px}.entp-feat-sec,.gsuite-file-sec,.payroll-software{background-color:#f7f7f7;padding:20px}.business-email-demo-sec,.gsuite-pro-sec{background-color:#f7fbff;padding:30px}.gsuite-pro-sec .container .row .row .col-lg-4{padding:48px}.gsuite-pro-sec .container .row .row .col-lg-4 img{width:275px;height:180px}.gsuite-prd-sec .row .col-12 .row .col-md-6 img{width:480px;height:330px;display:inline-block}.gsuite-contact-sec{background-image:url('https://res.cloudinary.com/dwyn5jgh3/image/upload/v1722083757/contact-us_g0skwr.webp');background-repeat:no-repeat;background-size:cover;padding:40px 0}.gsuite-contact-sec .container1{width:95%}.mailForm{padding:50px;background-color:#fdfeff;border-radius:10px}.DomainForm form input,.DomainForm form select,.DomainForm form textarea,.fleetForm form input,.fleetForm form select,.fleetForm form textarea,.mailForm form input,.mailForm form select,.mailForm form textarea,.sftpForm form input,.sftpForm form select{width:100%;height:40px;border-radius:5px;border-width:1px}.gsuite-item{padding:8px;box-shadow:none}.DomainForm,.fleetForm{box-shadow:0 0 3px 0 rgba(0,0,0,.5)}.office-banner-sec{background-color:#e02900;padding:30px}.office-banner-sec .container .row .col-md-6 button a{background-color:#0070d6;padding:12px 20px;border-radius:10px;color:#fff;font-size:16px;font-weight:500}.bulk-email-pricing .price,.office-banner-sec .container .row .col-md-6 button:hover{background-color:#1c40f2;transition:.3s ease-out}.gsuite-faq-sec .container .row .col-12 .row .col-md-6 img,.office-feat-sec .container .row .col-12 .row .col-md-6 img{width:470px;height:250px}.appdev3-sec,.career-section3-column1,.email-host-company-feat .tab-content .tab-pane .icon img,.email-hosting1-sec,.email-sol-adv-sec,.email-sol-advan-sec,.email-sol-comm-sec,.email-sol-mail .col-md-6 .mail img,.email-sol-security-sec,.entp-faq-sec,.gsuite-faq-sec,.ha-infra,.it-support-service1 .col-12 .service1,.managed-ser-com-sec,.managed-ser-plan .col-md-6,.office-feat-sec,.payroll-slides,.payroll-tab-content .tab-pane p,.requestform-sec .container .row .col-12,.seo1-sec,.server-setup-why,.spamfilter-faq-sec,.spamfilter-sec1,.ssl-choose img,.ssl1-sec,.webdevForm{padding:20px}.office-faq{background-color:#f7fbff;padding:20px 0}.cpanel-banner-sec,.cpanel-feat-sec{background-color:#f8fdff}.cpanel-banner{min-height:500px;background-image:url(https://res.cloudinary.com/dwyn5jgh3/image/upload/v1744954293/cpanel-banner-bg_dmooeb_yr9q6v.webp);background-position:600px 90px;background-repeat:no-repeat;background-size:500px}.domain-contact-sec,.fleet-banner,.fleet-contact-sec,.fleet-why-img{background-repeat:no-repeat;background-size:contain}.cpanel-banner .row,.fleet-why-us{padding:30px 0}.cpanel-banner .col-md-6 h1{color:#ff5300}.cpanel-banner .col-md-6 p,.email-arch-banner .col-md-6 p{color:#000;font-size:20px}.cpanel-banner ul li{padding:5px 0;font-size:17px;font-weight:500;color:#222}.cpanel-banner ul li i,.ssl-faq-sec .accordion-item .accordion-header button:hover{color:#194edf}.cpanel-benifits .col-lg-5{background-color:#fff;border-radius:5px;scale:0.94;box-shadow:0 0 10px 0 rgba(155.99624481201172,155.99624481201172,155.99624481201172,.5);cursor:pointer}.cpanel-benifits .col-lg-5:hover,.domain-why .col-lg-4{scale:0.96;transition:.4s ease-out}.cpanel-os-sec{background-color:#fbfbfb}.cpanel-faq-sec{background-color:#fcfcfc}.domain-banner-sec{background-color:#0049db;height:500px;align-items:center;align-content:center;padding:30px 10px}.domain-banner-sec .container .row .col-md-6 img{width:500px;height:500px}.domain-banner-sec .container .row .col-md-6:nth-child(2){text-align:end}.domain-banner-sec .container .row .col-md-6:nth-child(2) .head-top{color:#fff;padding:20px;font-size:22px}.domain-banner-sec .container .row .col-md-6:nth-child(2) h1{color:#ffd869;font-size:45px;text-align:end}.domain-banner-sec .container .row .col-md-6:nth-child(2) p{color:#fff;text-align:end}.domain-banner-sec .container .row .col-md-6 button a{font-family:Montserrat,Sans-serif;font-size:15px;font-weight:600;text-decoration:none;fill:#FFFFFF;color:#fff}.domain-banner-sec .container .row .col-md-6 button{background-color:#f08e28;padding:10px 20px;border-radius:8px}.domain-why .col-lg-4{width:350px;cursor:pointer;background-color:#fff;border-radius:20px;padding:20px}.appdev3 .flip-card-inner,.flip-card-inner{transition:transform .8s;transform-style:preserve-3d}.app-service,.domain-why,.managed-ser-spec .nav-tabs,.webdev-whychoose{justify-content:space-evenly}.domain-why-choose{background-color:#1484fd;padding:40px}.domain-why-choose .container .row .col-12 h2{color:#fff;padding:5px 10px 20px 5px;font-size:40px;font-weight:600}.domain-why .col-lg-4:hover{scale:1.00;transition:.4s ease-out}.domain-why .col-lg-4 .row .col-md-4 i{font-size:64px;color:#ffd869}.domain-why .col-lg-4 .row .col-md-8 h3{font-size:30px;text-transform:capitalize}.domain-feat{padding:20px 5px 45px}.domain-feat-slider div{padding:auto}.domain-feat-slider div h4,.webdev-slider div h3{text-align:center;padding-bottom:5px;font-size:24px}.domain-feat-slider .slick-slider .slick-prev{background-color:#77b8fd;border-radius:15px;left:45px}.domain-feat-slider .slick-slider .slick-next{background-color:#77b8fd;border-radius:15px;right:45px}.domain-feat-slider .slick-slider .slick-list .slick-track .slick-slide{text-align:center;align-content:center;height:220px}.domain-feat-slider .slick-slider .slick-list .slick-track .slick-center{color:#fff;background-color:#0064c2;align-content:center;padding:20px}.domain-faq .accordion-item,.fleet-faq .accordion-item{margin:10px}.domain-contact-sec{background-color:#f3eeee;padding:30px 5px;background-image:url(https://res.cloudinary.com/dwyn5jgh3/image/upload/v1722248332/domain-contact-bg_lapplc.webp);background-position:60px 0}.DomainForm{padding:50px;background-color:#f3eeee;border-radius:5px}.fleet-banner{background-image:url(https://res.cloudinary.com/dwyn5jgh3/image/upload/v1722239341/fleetbanner-pc_wyes4q.webp);background-position:70%;align-content:start;padding:30px 10px 20px;height:500px}.fleet-banner .container .row .ban-left-1 a,.hms-banner .container .row .ban-left-1 a{background-color:transparent;color:#fff;background-image:linear-gradient(180deg,#1c40f2 0,#0064c2 100%);padding:12px 15px;border-radius:5px;margin:40px 20px 20px 10px}.banner-but:hover,.business-email-demo .col-md-6 button a,.seo-banner-sec .row .col-12 a:hover{background-image:linear-gradient(180deg,#0064c2 0,#1c40f2 100%)}.banner-but{padding:12px 15px}.banner-but,.banner-but:visited{color:#ffff;font-weight:400;font-size:17px;font-family:Roboto,sans-serif;padding:10x 10px;margin-top:10px}.fleet-banner-fet ul li{font-size:18px;font-weight:550}.contact-form-sec,.data-center-list,.entp-feat,.fleet-why ul li .col1,.fleet-why ul li .col2,.second-container-column1-list1,.sftp-com,.ssl-imp-sec .container .row .col-12 ul li div,.why-choose-us-email-server ul li div{padding:10px}.fleet-why ul li .col1 i{font-size:30px;padding:25px;scale:0.9;border-radius:5px;color:#fff;align-content:start}.fleet-why-img{background-image:url(https://res.cloudinary.com/dwyn5jgh3/image/upload/v1722239416/download_ts3nhy.png);background-position:60px 60px}.fleet-why ul li .col2 h3{color:#012c66;font-size:20px}.clients-section2 .container .row,.fleet-mange-sec{padding:20px 10px}.fleet-mange-sec .container .row .col-12 .row .col-md-6 p{line-height:28px}.fleet-call-t0-sec{background-color:#1970c7;padding:10px}.fleet-c2a a{background-color:transparent;color:#fff;font-size:20px;padding:12px 24px;border-radius:5px;border:1px solid #fff}.crm-feat-sec,.fleet-feat-sec,.hms-feat-sec,.payroll-faq .accordion-item,.payroll-feat-sec{background-color:#f6fcff}.fleet-feat-1 .row .col-lg-4,.fleet-feat-2 .row .col-lg-4{width:25%;text-align:center;align-content:center}.fleet-feat-1 .row .col-lg-4 .flip-box,.fleet-feat-2 .row .col-lg-4 .flip-box{align-content:center;background-color:#605BE5E6;width:220px;height:250px;border-radius:10px;padding:10px}.fleet-feat-1 .row,.fleet-feat-2 .row{justify-content:space-evenly;min-height:300px;padding:0 50px}.flip-card{background-color:transparent;perspective:1000px}.flip-card-inner{height:250px;text-align:center;width:220px;display:inline-block}.appdev3:hover .flip-card-inner,.flip-card-back,.flip-card:hover .flip-card-inner{transform:rotateY(180deg)}.appdev3 .flip-card-inner .flip-card-front,.flip-card-back,.flip-card-front{position:absolute;-webkit-backface-visibility:hidden;backface-visibility:hidden}.flip-card-front{background-color:#bbb;color:#000}.flip-card-back{background-color:#fff;color:#336}.flip-card-back ul li{padding:5px;font-size:17px;color:#012c66}.flip-box-back{align-content:center;background-color:#fff;width:220px;height:250px;border-radius:10px;padding:20px}.fleet-why-us-sec{padding:30px 5px}.fleet-why-us .col-md-6:first-of-type img{width:100%;height:auto;position:sticky;top:0}.fleet-why-us .col-md-6 ul li{display:flex;margin:10px;padding:5px 10px;background-color:#fff;border-radius:7px}.fleet-why-us .col-md-6 ul li .col1{padding:0 20px;align-content:center}.fleet-why-us .col-md-6 ul li .col1 img{display:inline-block;max-width:60px}.fleet-why-us .col-md-6 ul li .col2 h3,.keyfeat .col-lg-4 h3{font-size:24px;color:#001042}.fleet-why-us .col-md-6 button{padding:30px;background-color:transparent}.fleet-why-us .col-md-6 a{color:#fff;font-size:16px;font-weight:600;text-decoration:none;background-color:transparent;padding:16px 32px;border-radius:3px}.fleet-faq .accordion-item,.fleet-faq .accordion-item button{background-color:#f7f7f7;color:#012c66;font-size:18px;font-weight:550}.managed-ser-com .col-12 .comparison-table tbody tr:hover,.payroll-tab .nav button{background-color:#f1f1f1}.fleet-contact-sec{background-color:#f5f5f5;padding:30px 5px;background-image:url(https://res.cloudinary.com/dwyn5jgh3/image/upload/v1722239455/fleet-banner_o5kasq.webp);background-position:15px 114px}.fleetForm{background-color:#f5f5f5;padding:50px;border-radius:5px}.hms-banner,.payroll-banner{background-repeat:no-repeat;background-size:cover;align-content:start;padding:30px 10px 20px;height:500px;background-position:0}.hms-banner{background-image:url(https://res.cloudinary.com/dwyn5jgh3/image/upload/v1722240610/hms-banner-pc-1_fib3hd.webp)}.hmsfeat1-sec .container .row .col-lg-4{border-radius:10px;background-color:#e9ecef;padding:15px;scale:0.9;cursor:pointer;height:230px}.hmsfeat1-sec .container .row .col-lg-4:hover{background-color:#fed501;transition:.3s ease-in-out}.hmsfeat1-sec .container .row .col-lg-4 h2{font-size:31px;padding:10px;text-align:center}.hmsfeat1-sec .container .row .col-lg-4 p{font-size:19px;padding:10px}.hms-whychoose,.payroll-whychoose-sec{background-color:#fafafa}.hms-why-img img{width:auto;height:auto;text-align:center}.payroll-banner{background-image:url(https://res.cloudinary.com/dwyn5jgh3/image/upload/v1722241620/payroll-bg_hvkiex.webp);text-transform:capitalize}.payroll-banner .container .row .ban-left-1 h1{font-size:42px;padding-top:30px}.crm-provider-sec .container .row .col-12 .row .col-md-6 img,.mailserver-whychoose .col-md-6 img,.payroll-why-img img{width:auto}.payroll-why-img{background-image:url(https://res.cloudinary.com/dwyn5jgh3/image/upload/v1722239416/download_ts3nhy.png);background-size:contain;background-position:100px 30px;background-repeat:no-repeat;padding:20px}.app-banner-sec,.appdev-contact-sec,.appdev3 .flip-card-inner .flip-box-back,.contact-banner-sec,.emailserver-banner-sec,.itsupport-banner-sec,.office365-contact-ban,.rainmail-contact-ban,.request-banner-sec,.server-setup-ban-sec .container,.spamfilter-ban-sec,.webdev-banner-sec,.webdev-contact-sec,.zimbraalt-contact-ban{background-size:cover;background-repeat:no-repeat}.payroll-software .container .row .col-12 .row .col-md-6 h2{color:#ff6700;font-size:25px;padding:15px 0}.payroll-software .container .row .col-12 .row .col-md-6 a{font-weight:600;text-decoration:none;background-color:transparent;padding:10px 20px;border-radius:5px;color:#fff;font-size:17px}.payroll-tab-content .tab-pane img{width:700px;height:350px}.payroll-tab .nav{width:25%;padding:20px}.payroll-tab .nav button{text-align:left;padding:20px;font-size:16px;border-radius:0}.payroll-tab .nav button:hover{background-color:#0d6efd;color:#fff}.payroll-tab .tab-content{width:70%}.payroll-tab-content .tab-pane h3{padding:20px;color:#f60;font-size:28px;text-align:start}.hr-process-sec{background-color:#f8f8f8;padding:40px 0}.payroll-slides .slide{background-color:#f2c43b;border-radius:10px;padding:20px}.payroll-slides .slide:hover,.webdev-slides .slide:hover{background-color:#e0e0e0;transition:.3s ease-in-out}.payroll-slider div img,.webdev-slider div img{width:88px;height:88px;text-align:center;display:inline;padding:10px}.entp-slider .slick-slider .slick-next,.entp-slider .slick-slider .slick-prev,.payroll-slider .slick-slider .slick-next,.payroll-slider .slick-slider .slick-prev,.webdev-slider .slick-slider .slick-next,.webdev-slider .slick-slider .slick-prev{background-color:#5f5f5f;border-radius:15px}.entp-slider .slick-slider .slick-list .slick-track .slick-slide,.itsupport-banner .col-md-6:nth-of-type(2),.payroll-slider .slick-slider .slick-list .slick-track .slick-slide,.webdev-slider .slick-slider .slick-list .slick-track .slick-slide{text-align:center;align-content:center}.payroll-faq-sec{background-color:#f6fcff;padding:30px}.payroll-faq .accordion-item .accordion-header button{font-size:18px;font-weight:600;background-color:#f6fcff}.sftp-banner-sec h1{font-size:38px;color:#11009e;font-weight:700;padding:20px}.Fleet-ban-1 .ban-1{font-size:25px;color:#11009e;font-weight:600}.sftp-transfer-sec{background-color:#dcebfc;padding:20px}.sftp-transfer-sec .container .row .col-12 h3{color:#11009e;font-size:28px;padding:10px;text-align:center}.sftp-transfer-sec .container .row .col-12 p{font-size:20px;font-weight:500;text-align:center}.sftp-transfer-sec .container .row:nth-of-type(2) .col-lg-2{text-align:center;padding:15px}.sftp-transfer-sec .container .row:nth-of-type(2) .col-lg-2 h4{font-size:16px;color:#004e7a;padding:8px;font-weight:600}.sftp-transfer-mob-sec{display:none!important}.howitwork-sec{background-color:#f7f7f7;text-align:center;padding:25px}.sftp-why .col-md-6 ul li,.ssl-imp-sec .container .row .col-12 ul li,.why-choose-us-email-server ul li{display:flex;padding:10px}.sftp-why .col-md-6 ul li .col1{padding:2px 20px}.sftp-why .col-md-6 ul li .col2 h3,.sftp-why .col-md-6 ul li .col2 h4{color:#001042;font-size:20px}.sftp-why .col-md-6 ul li i{color:#001042;font-size:30px}.sftp-keyfeat-sec{background-color:#fff;padding:25px}.keyfeat .col-lg-4 img{width:auto;height:auto;display:inline}.keyfeat .col-lg-4{box-shadow:0 0 7px 0 rgba(0,0,0,.5);padding:20px;border-radius:5px;scale:0.96;text-align:center}.sftp-com-sec{background-color:#dbf1ff;padding:25px;text-align:center}.sftp-com-sec .container .row .col-12 h3{font-size:22px;color:#090a0a;font-weight:500}.sftp-com .col-lg-4{padding:10px;background-color:#fff;scale:0.9;display:flex;align-items:center;border-radius:5px}.sftp-com .col-lg-4:hover{scale:0.96;transition:.4s ease-out;cursor:pointer}.sftp-com .col-lg-4 i{font-size:40px;padding:0 15px}.sftp-ftp-sec{background-color:#0e1329}.sftp-ftp-sec h2{color:#fff;font-weight:600}.sftp-ftp-sec .container .row .col-md-6{text-align:center;width:300px}.sftp-ftp-sec .container .row .col-md-6 h4{color:#fff;padding:10px;font-size:20px;font-weight:500;border-style:solid;border-width:2px;width:280px}.sftp-benefits-sec{background-color:#f6fcff;padding:20px}.sftp-contact-sec,.sftp-faq,.sftp-faq-sec{background-color:#f4f7fa}.sftp-benefits-sec .container .row .col-12 .row .col-lg-4{border-radius:5px;box-shadow:0 0 3px 0 rgba(0,0,0,.5);scale:0.96;padding:15px}.sftp-benefits-sec .container .row .col-12 .row .col-lg-4:hover{scale:0.99;transition:.3s ease-in-out}.sftp-benefits-sec .container .row .col-12 .row .col-lg-4 ul li i{color:#0d6efd;padding-right:5px}.sftp-faq .accordion-item .accordion-header button i{color:#1d92fc;padding-right:15px;font-size:18px}.sftp-faq .accordion-item .accordion-header button{color:#001042;font-size:18px;font-weight:500}.sftp-faq .accordion-item{margin:12px;background-color:#fff;border-radius:0;border:1px solid #eaeaea}.app-service .col-lg-4,.webdev-whychoose .col-lg-4{scale:0.95;box-shadow:0 0 10px 0 rgba(0,0,0,.5);width:30%;margin:0 10px;cursor:pointer}.sftpForm form textarea{width:100%;height:80px;border-radius:5px;border-width:1px}.sftpForm form .formField,.sitemap-sec .container .row .col-md-6{padding:3px 0}.sftpForm{box-shadow:0 0 3px 0 rgba(0,0,0,.3);padding:40px;border-radius:10px}.crm-banner{background-color:#f8fdff;padding:30px}.crm-banner .container .row .ban-left-1 p{font-size:20px;color:#012c66;font-weight:500}.crm-banner-fet ul li{font-size:18px;color:#012c66;font-weight:400;padding:5px}.crm-banner-fet ul li i{font-size:17px;padding:5px;font-weight:500}.crm-whatdo-sec .container .row .col-12 .row .col-md-6 img{width:auto;position:sticky;top:0}.crm-whatdo-sec .container .row .col-12 .row .col-md-6 h2{color:#11009e;font-size:30px}.crm-whatdo-sec .container .row .col-12 .row .col-md-6 h3{color:#11009e;font-size:25px}.crm-whatdo-sec .container .row .col-12 .row .col-md-6 ul li{list-style:disc;padding:5px}.webdev-banner-sec{padding:30px;background-image:url('https://res.cloudinary.com/dwyn5jgh3/image/upload/v1722083712/web-dev-banner_mdpthc_mkw2ws.webp');align-items:center;align-content:center;height:550px}.webdev-banner-fet ul li{color:#012c66;font-size:16px}.webdev-banner .row .ban-left-1 a{padding:12px 15px;color:#fff;background-color:#0064c2;border-radius:5px;font-size:16px;font-weight:550}.webdev-banner .row .ban-left-1 p{color:#012c66;font-size:18px}.webdev-banner .row .ban-left-1 img{width:550px}.webdev-site-sec{background-color:#fff;padding:20px;height:380px}.webdev-site-sec .container .row .col-md-6 h3{text-align:end;font-size:35px;font-weight:600}.app-dev2-sec .container .row .col-12 .row .col-md-6:first-of-type img,.enterp-banner-sec .container .row .col-md-6 img,.webdev-site-sec .container .row .col-md-6 img{width:100%;height:auto}.app-service-sec,.webdev-whychoose-sec{background-color:#378ce7;padding:20px 20px 40px}.app-service-sec h2,.webdev-whychoose-sec h2{color:#fff;font-size:34px}.webdev-whychoose .col-lg-4{background-color:#f2c43b;padding:20px;border-radius:15px;height:270px}.app-service .col-lg-4:hover,.webdev-whychoose .col-lg-4:hover{background-color:#ffd23BF2;transition:.2s ease-out}.webdev-whychoose .col-lg-4 h3{color:#000;font-size:30px;padding:10px;font-weight:550;font-family:Roboto,sans-serif}.app-service .col-lg-4 p,.webdev-whychoose .col-lg-4 p{color:#000;font-size:18px}.webdev-process-sec{padding:20px 20px 40px;background-color:#f8f8f8}.entp-slides,.webdev-slides{scale:0.96;padding:10px}.webdev-slides .slide{background-color:#f2c43b;border-radius:10px;padding:20px;height:450px}.webdevtool img{margin:10px 40px;width:auto}.webdev-maint-sec{padding:30px;background-color:#f8f8f8}.webdev-maint-sec .container .row .col-12 h3{font-size:40px;font-weight:600;align-content:center}.webdev-maint-sec .container .row .col-12 .row .col-lg-4 ul li{display:flex;align-content:center;padding:20px}.webdev-maint-sec .container .row .col-12 .row .col-lg-4 ul li i{font-size:22px;color:#fff;background-color:#6a65ff;align-content:center;padding:15px;border-radius:8px}.webdev-contact-sec{padding:40px;background-image:url(https://res.cloudinary.com/dwyn5jgh3/image/upload/v1722083757/contact-us_g0skwr.webp)}.webdev-contact{background-color:#f7fbff;padding:20px;border-radius:5px}.app-banner-sec{padding:30px;background-image:url('https://res.cloudinary.com/dwyn5jgh3/image/upload/v1722229434/mobile-app-bg_g0s140.webp');align-items:center;align-content:center;background-position:center;height:550px}.app-dev1-sec{background-color:#fff;padding:20px}.app-dev1-sec .container .row .col-12 h3,.mailserver2-sec .container .row .col-12 h3{font-size:25px;color:#fff}.Business-mail-banner-sec,.app-dev2-sec,.email-server-provider-sec,.entp-adv-sec,.managed-ser-spec-sec{padding:20px;background-color:#f0f7ff}.app-dev2-sec .container .row .col-12 h3,.mailserver1-sec .container .row .col-12 h3{font-size:35px;padding:20px}.app-service .col-lg-4{background-color:#f2c43b;padding:20px;border-radius:15px;height:320px;text-align:center}.app-service .col-lg-4 img{text-align:center;display:inline}.app-service .col-lg-4 img:hover{scale:1.05;transition:.3s ease-out}.app-service .col-lg-4 h3{color:#000;font-size:26px;padding:10px;font-weight:600;font-family:Roboto,sans-serif}.app-feat-sec{padding:20px 10px 40px}.appfeat-slides .slide{text-align:center;scale:0.9;background-color:#f2c43b;padding:30px;border-radius:10px;height:350px}.appfeat-slides .slide:hover{background-color:#e0e0e0}.appfeat-slides .slide img{display:inline;text-align:center}.appfeat-slides .slide h3{color:#000;font-weight:600;font-size:30px}.appfeat-slider .slick-slider .slick-next,.appfeat-slider .slick-slider .slick-prev{background-color:#333;border-radius:50%}.appdev3 .flip-card-inner .flip-box-back,.appdev3 .flip-card-inner .flip-card-front{width:300px;border-radius:10px;padding:20px;box-shadow:0 0 7px 0 rgba(0,0,0,.5);height:280px}.appfeat-slider .slick-slider .slick-next,.appfeat-slider .slick-slider .slick-prev:hover{background-color:#0877ec}.appdev3-sec h3{font-size:35px;font-weight:600}.appdev3{width:38%;text-align:center}.appdev3 .flip-card-inner{text-align:center;width:300px;height:280px;margin:10px 40px}.appdev3 .flip-card-inner .flip-card-front{background-color:#e9ecef;color:#000}.appdev3 .flip-card-inner .flip-card-front h3{font-size:22px;color:#001042;font-weight:600}.appdev3 .flip-card-inner .flip-box-back{align-content:center;background-image:url(https://res.cloudinary.com/dwyn5jgh3/image/upload/v1722231712/blue-bg_ws5mvs.webp)}.app-slider-sec{padding:30px 10px}.appdev-contact-sec{background-image:url(https://res.cloudinary.com/dwyn5jgh3/image/upload/v1722231780/contact-bg_aufe1l.webp);padding:40px;border-radius:5px}.seo-banner-sec{padding:40px 20px;background-image:url(https://res.cloudinary.com/dwyn5jgh3/image/upload/v1722231895/seo-bg_ldiogc.webp);background-color:#f8fdff;background-position:center right;background-repeat:no-repeat;background-size:contain;align-content:center;height:500px}.seo-banner-fet{padding:25px}.seo-banner-sec .row .col-12 .row .col-md-6 h1{padding:30px 20px 20px;color:#11009e;font-weight:600;font-size:40px;text-align:left}.seo-banner-sec .row .col-12 a{text-align:center;padding:12px 20px;border-radius:5px;background-color:#0064c2;margin-top:25px;color:#fff}.seo-ban-float{padding:10px;position:absolute;top:300px;left:32%;text-align:-webkit-right}.seo-ban-float h3{padding:15px;background-color:#fff;box-shadow:0 0 7px 0 rgba(0,0,0,.5);border-radius:8px;font-size:17px;text-align:right}.seo-ban-float h3:first-of-type{width:150px;margin:15px}.seo-ban-float h3:nth-of-type(2){width:230px;margin:15px}.seo1-sec .container .row .col-12 h3{font-size:35px;color:#194edf}.seo-why-sec{padding:10px 10px 30px;background-color:#f7fbff}.seo-slides{background-color:#f2c43b;height:450px;scale:0.9;padding:20px;border-radius:10px}.ha-banner-sec,.ssl-banner-sec{background-repeat:no-repeat;background-size:cover;height:500px}.seo-slides .slide h3{font-size:28px;color:#000;font-weight:700;text-align:center;padding:10px;height:80px}.seo-slides .slide p{padding:30px;background-color:#fffdf4;border-radius:10px;align-content:center;margin-top:20px}.seo-slides .slide p:hover{background-color:#ffec87;transition:.3s ease-out}.seo-slider .slick-slider .slick-next,.seo-slider .slick-slider .slick-prev{background-color:#1c40f2;border-radius:50%;right:0}.seo-serv{padding:80px 10px 10px}.seo-serv-sec{padding:20px;background-color:#f7f7f7}.seo-serv .col-lg-4{width:360px;height:280px;padding:100px 20px 20px;border:2px solid #ffcc07;border-radius:10px;text-align:center;scale:0.9;cursor:pointer;margin-top:10px}.seo-serv .col-lg-4:hover{border:2px solid #ffcd0700;transition:.4s ease-out}.seo-serv .col-lg-4 .serv{background-color:#378ce7;border-radius:14px;padding:10px;width:60%;position:absolute;top:-65px;left:68px}.seo-serv .col-lg-4 .serv i{font-size:50px;color:#ffc107;padding:5px}.seo-serv .col-lg-4 .serv h3{font-size:24px;color:#fff;height:52px}.ha-banner-sec{padding:20px;background-image:url(https://res.cloudinary.com/dwyn5jgh3/image/upload/v1722232077/ha-bg-1_hvwtjy.webp);align-content:center;background-color:#e7eefc;background-position:100px 0}.enterp-banner-sec .container .row .list .col-md-6,.ssl-banner-sec{align-content:start}.ha-banner .row .ban-left-1 h1 .letter{display:inline-block;font-size:42px;transform-style:preserve-3d;color:#194edf}.ha-banner .row .ban-left-1 h1 .flip{animation:2s infinite flip-animation}@keyframes flip-animation{25%{transform:translateX(0) rotateY(90deg)}}.ha-banner .row .ban-left-1 button{padding:8px 20px;border-radius:5px;margin-top:30px;background-color:#0064c2}.ha-banner .row .ban-left-1 a{color:#fff;font-size:15px;font-weight:500;padding:12px 20px;background-color:#0058ad;margin-top:30px;border-radius:5px}.ha-banner-fet ul li{padding:2px;color:#012c66;font-size:16px}.ha-infra .carousel .carousel-inner .carousel-item h3{font-size:30px;color:#001042}.ha-infra .carousel .carousel-inner .carousel-item p{padding:20px 0 40px}.ha-infra .carousel .carousel-control-next{top:80%;left:10%}.ha-infra .carousel button i{color:#333;font-size:20px}.ha-infra .carousel button i:hover{color:#67b0fe;font-size:30px}.ha-clust-sec{background-color:#f7fbff;padding:10PX}.ha-clust .col-md-6 img{width:515px;height:480px;position:sticky;top:0}.ha-clust .col-md-6 ul li{display:flex;align-content:flex-start}.app-dev2 ul li i,.ha-clust .col-md-6 ul li i{font-size:23px;color:#001042;padding:10px}.ha-clust .col-md-6 ul li p{padding:5px 20px}.ha-clust .col-md-6 div button{padding:8px 15px;margin:10px}.ssl-banner-sec{background-image:url(https://res.cloudinary.com/dwyn5jgh3/image/upload/v1722081996/banner-img-2_eldjg4.webp)}.ssl-banner-fet ul li{padding:1px;font-size:16px;color:#0064c9}.ssl-banner .col-md-6 span{font-size:30px;font-weight:700;color:#194edf;padding:30px 0}.ssl-banner .col-md-6 h1{font-size:45px;font-weight:700;color:#194edf;padding:20px 0}.ssl-banner .col-md-6 a{margin-top:20px;padding:12px 20px;background-color:#0064c2;border-radius:5px;color:#fff}.ssl1-sec .container .row .col-12 img{width:1140px;height:150px;scale:1;padding:20px}.ssl1-sec .container .row .col-12 img:hover{scale:1.05;transition:.4s ease-in-out;text-align:center}.ssl-choose-sec{background-color:#f7fbff;padding:20px}.ssl-choose img:hover{scale:1.05;transition:.4s}.ssl-choose .plan{padding:20px;text-align:center;width:630px;height:400px;background-color:#fff;border-radius:4px;border:1px solid rgba(9,9,9,.1);margin:20px;display:inline-block}.ssl-choose .plan:hover{box-shadow:0 14px 28px rgba(0,0,0,.25),0 10px 10px rgba(0,0,0,.22);transition:.3s ease-out}.ssl-choose .plan h3{font-size:25px;padding:10px;color:#000;border-bottom:1px solid #bdbcbc;display:inline;border-radius:3%}.bulk-email-feat .col-lg-4,.ssl-choose .plan ul{text-align:center;padding:30px}.ssl-choose .plan ul li{padding:5px;border-bottom:.5px solid #f0e8e8;border-radius:5%;text-align:center;font-size:17px}.ssl-choose .plan ul li i{color:#00c853;padding:10px}.ssl-why-sec{background-color:#f7fbff;padding:5px}.ssl-why-sec .container .row .col-12 h3{color:#194edf;font-size:35px;font-weight:600}.ssl-imp-sec .container .row .col-12 ul li i{color:#001042;font-size:30px;padding:12px}.accordion-button,.bulk-email-feat .col-lg-4 p,.email-hosting-fetaure .col-12 .fetaure-block .row .col-md-6 .feat p,.seo-ban-float .heading,.spamfilter-pro .col-lg-4 p,.spamfilter-sec1 p,.ssl-faq-sec .accordion-item .accordion-collapse .accordion-body p,.ssl-imp-sec .container .row .col-12 ul li div p{font-size:17px}.ssl-faq-sec{background-color:#f7fbff;padding:10px}.ssl-faq .accordion-item{border:0;background-color:#f7fbff}.ssl-faq-sec .accordion-item .accordion-header button{color:#001042;font-size:17px;font-weight:500}.mail-support-banner-sec{background-color:#001c5b;background-image:url(https://res.cloudinary.com/dwyn5jgh3/image/upload/v1722082513/mail-server-banner_vkbuzz.webp);background-size:contain;background-repeat:no-repeat;min-height:300px;align-content:center;background-position:90% 10%}.mail-support-banner-sec .container .row .col-12{color:#fff;font-size:45px;padding:20px}.mailserver1 .col-1 ul li i{padding:8px 20px;color:brown}.mailserver1 .col ul li p{font-size:17px;padding:10px 0}.mailserver1 .col-1{width:65%}.mailserver1 .col-2{width:35%}.mailserver1 .col-2 img{position:sticky;top:0;width:auto}.mailserver-tab .accordion-item{margin:10px;padding:2px;border-radius:2px}.mailserver-tab .accordion-item button h3{color:#052c65;font-size:16px;margin:0}.mailserver-tab .accordion-item button h3 i{padding:15px;color:#fff;font-size:20px;background-color:#605be4;border-radius:2px}.mailserver-tab .accordion-item .accordion-button::after{margin-right:10px}.mailserver2 .col-md-6{text-align:center;padding:30px;align-content:space-evenly;height:250px}.mailserver2-sec .container .row .col-12 .mailserver2:first-of-type{background-color:#0044e6}.mailserver2-sec .container .row .col-12 .mailserver2:nth-of-type(2){background-color:#00074BF5}.mailserver2-sec .container .row .col-12 .mailserver2:nth-of-type(4){background-color:#0845A7E3}.mailserver2-sec .container .row .col-12 .mailserver2:nth-of-type(5){background-color:#4549FFE3}.mailserver2 .col-md-6 img{width:auto;padding:15px;display:inline-block}.mailserver2 .col-md-6 p,.spamfilter-ban p{color:#fff;padding:10px}.mailserver-cta .col-12 .row .col-md-6 button:hover,.mailserver2 .col-md-6 button:hover{background-color:#1c40f2;transition:.4s}.mailserver-cta .col-12 .row .col-md-6 a,.mailserver2 .col-md-6 a{color:#fff;font-size:15px;padding:12px 15px;border-radius:3px;background-color:#0064c2}.mailserver-cta .col-12{padding:40px;text-align:center}.mailserver-cta .col-12 .row{background-color:#ffe555;width:85%;border-radius:5px;display:inline-flex}.mailserver-cta .col-12 .row .col-md-6{align-content:center;padding:30px 50px;text-align:left}.mailserver-cta .col-12 .row .col-md-6 h4{padding:20px 5px;font-size:25px;font-weight:600}.contact-banner-sec{padding:30px;background-image:url('https://res.cloudinary.com/dwyn5jgh3/image/upload/v1744871715/contact-bg_ud3jxw.webp');height:300px;align-content:center}.contact-banner-sec .container-1 .row .col-12 h1{color:#fff;font-size:40px;font-weight:600;text-align:center}.contact-form-sec .container-1{padding:10px 40px;align-items:center}.contact-form-sec .container-1 .row .col-md-6 iframe{width:100%;height:400px}.contactusform{padding:20px;border-width:1px;border-color:#eaeaea;border-radius:5px;box-shadow:0 0 3px 0 rgba(0,0,0,.5)}.contactusform form .row .col-md-6 .formField label{font-size:17px;font-weight:500}.contactusform form .row .col-md-6 .formField input{width:100%;height:40px;border-radius:3px;border:1px solid #888}.contactusform form .row .col-md-6 .formField select{width:100%;height:40px}.contactusform form .row .col-md-6 .formField textarea{width:100%;height:110px}.contactusform form button{padding:10px 25px;border-radius:5px;font-size:15px;color:#fff;background-color:#0058ad}.contact-para-sec .container-1 .row .col-12 p{padding:10px 40px;color:#000}.contact-add-sec{padding:10px 40px}.contact-add .col-lg-3 h3{font-size:16px;color:#337ab7}.contact-add .col-lg-3 p{font-size:17px;color:#000}.contact-add .col-lg-3 ul li{font-size:17px;padding:5px}.contact-add{padding:0 30px}.alt-rainmail-bansec{background-color:#978efd;padding:30px}.alt-rainmail-bansec .container .row .col-md-6 h3{color:#000;font-weight:600}.alt-rainmail-bansec .container .row .col-md-6 h1{font-size:50px;color:#000;font-weight:600}.alt-rainmail-bansec .container .row .col-md-6 a{padding:12px 20px;border-radius:3px;background-color:#0064c2}.entp-tab-sec,.rainmail-why-sec{padding:30px;background-color:#f7fbff}.rainmail-why-sec .container .row .col-12 h3{color:#194edf;font-size:28px;font-weight:500;font-family:Roboto,sans-serif}.rainmail-why .row .col-md-6{scale:0.9;border-radius:5px;box-shadow:1px 1px 1px 1px rgba(206,206,206,.5);align-content:center;text-align:center;padding:20px;background-color:#fff}.rainmail-why .row .col-md-6 h3{color:#012c66;font-size:32px;padding:10px;font-weight:600}.rainmail-why .row .col-md-6 img{padding:20px;display:inline-block}.rainmail-why .row .col-md-6 p{padding:10px;color:#000;font-size:20px;font-family:Arial,Helvetica,sans-serif}.rainmail-feat-sec{padding:20px;background-color:#fff;text-align:center}.rainmail-feat-sec .container .row .col-12 table{width:90%;text-align:center;border-radius:2px;box-shadow:0 0 3px 0 rgba(0,0,0,.3);display:inline-table;overflow-x:auto}.feat-table,.managed-ser-table{overflow:auto}.rainmail-feat-sec .container .row .col-12 table thead tr td{padding:10px;height:30px;border:1px solid rgba(189,189,189,.555);background-color:#605be5;color:#fff;font-weight:600;align-items:center}.email-host-company-banner .col-12,.rainmail-feat-sec .container .row .col-12 table thead tr td h4,.rainmail-feat-sec .container .row .col-12 table thead tr td img{display:inline}.rainmail-feat-sec .container .row .col-12 table thead tr td h4{font-size:20px;font-family:Roboto,sans-serif}.rainmail-feat-sec .container .row .col-12 table tbody tr td{padding:8px 20px;height:28px;border:1px solid rgba(189,189,189,.555);font-size:17px;font-family:Arial,Helvetica,sans-serif;color:#000;text-align:left}table tbody tr td .org{color:#e06600;font-weight:500}table tbody tr td .gr{color:#00b467;font-weight:500}table tbody tr td .bl{color:#0034e0;font-weight:500}table tbody tr td .red{color:#db0202;font-weight:500}.rainmail-feat-sec .container .row .col-12 table tbody tr:nth-of-type(odd){background-color:#f3f3f3}.rainmail-feat-sec .container .row .col-12 a{padding:12px 15px;background-color:#001fbb;border-radius:3px;color:#fff;margin-top:10px}.rainmail-contact-ban{padding:20px;background-image:url(https://res.cloudinary.com/dwyn5jgh3/image/upload/v1722315643/rainmail-contact-bg_vxlnat.webp)}.rainmail-alt-form{padding:30px 40px;background-color:#fff;border-radius:5px}.alt-gsuite-bansec{padding:30px;background-color:#ff8a6d}.alt-gsuite-ban .col-md-6 .Head-top{color:#000;font-weight:600;padding:10px 0;font-size:25px}.alt-gsuite-ban .col-md-6 h1{font-size:50px;color:#000;font-weight:600;padding:20px 0}.alt-gsuite-ban .col-md-6 img{width:550px;height:400px}.alt-gsuite-ban .col-12 table,.alt-zimbra-ban .col-12 table{overflow-x:auto}.alt-zimbra-bansec{background-color:#015e8e;padding:30px}.alt-zimbra-ban .col-md-6 h3{color:#fff;font-weight:600;padding:10px 0}.alt-zimbra-ban .col-md-6 h1{font-size:45px;color:#fff;font-weight:600;padding:20px 0}.alt-zimbra-ban .col-md-6 p{padding:10px 0;color:#fff}.alt-zimbra-ban .col-md-6 a{padding:8px 20px;border-radius:3px;background-color:#001fbb;text-align:center}.zimbraalt-contact-ban{background-image:url(https://res.cloudinary.com/dwyn5jgh3/image/upload/v1722337882/rainmail-form-bg_uwucii.webp);padding:20px}.alt-office-bansec{background-color:#1148cf;padding:30px}.office365-contact-ban{padding:20px;background-image:url(https://res.cloudinary.com/dwyn5jgh3/image/upload/v1722399511/rainmail-contact-bg_mxajmd.webp)}.enterp-banner-sec{padding:50px 10px;background-color:transparent;background-image:linear-gradient(95deg,#00698b 23%,#4eb5f3 84%)}.enterp-banner-sec .container .row .col-md-6 h1{font-size:40px;color:#fff;font-weight:600;padding:10px}.enterp-banner-sec .container .row .col-md-6 p{color:#fff;font-weight:500;padding:10px}.enterp-banner-sec .container .row .col-md-6 ul li{color:#fff;padding:5px}.enterp-banner-sec .container .row .col-md-6 .entp-btn{padding:20px 0;display:flex}.entp-btn .btn1,.entp-btn .btn2{padding:8px 20px;border-radius:3px;margin-right:30px;background-color:#fff}.entp-btn .btn2{color:#fff;background-color:transparent;border:2px solid #fff}.enterp-banner-sec .container .row .list .col-md-6 ul{padding-left:0!important}.enterp-banner-sec .container .row .list .col-md-6 ul li i{font-size:13px;padding:3px}.entp-tab .nav{text-align:center;justify-content:center;padding:40px}.entp-tab .nav .nav-item{margin:0 20px}.entp-tab .nav .nav-item .nav-link{background-color:#f7fbff;color:#00506d!important;border-bottom:1px solid #00506d!important;border-radius:0!important;padding:10px!important}.entp-tab .nav .nav-item .nav-link.active{background-color:none;border:none;transition:.3s ease-out}.entp-tab .tab-content .tab-pane .container .row .col-md-6 img{width:auto;height:270px}.entp-tab .tab-content .tab-pane .container .row .col-md-6 h5{color:#000a66;font-size:18px}.entp-tab .tab-content .tab-pane ul li i{color:#000a66;font-weight:500}.entp-feat-sec .container .row .col-12 h3{color:#000a66;font-size:30px}.entp-feat .col-lg-4{padding:20px;border-radius:5px;box-shadow:0 0 2px 0 rgba(0,0,0,.5);scale:0.91;cursor:pointer;height:180px}.entp-feat .col-lg-4:hover{scale:0.93;transition:.5s ease-out}.entp-feat .col-lg-4 i{font-size:25px;padding:5px}.entp-adv-sec h3,.entp-feat .col-lg-4 h4{color:#000a66}.entp-cont-sec,.server-setup-why-sec{padding:20px;background-color:#186ec3}.entp-cont{display:flex;justify-content:space-between;align-content:center}.entp-cont .cont{display:flex;align-content:center;cursor:pointer}.entp-cont .cont h3 a{color:#fff;font-size:40px}.entp-cont .cont i{color:#fff;display:inline-block;font-size:35px;padding:10px;margin-right:5px}.entp-slides .slide{background-color:#0079a0;border-radius:10px;padding:30px 20px;height:450px}.entp-slides .slide:hover{background-color:#006bab;transition:.3s ease-in-out}.entp-slider div h4{font-size:30px;text-align:center}.entp-slider div h4,.entp-slider div p{padding-bottom:5px;color:#fff}.entp-faq-sec h3{text-align:center;color:#11009e;font-size:30px}.entp-faq .accordion-item{padding:10px;border-style:solid;border-width:0 0 1px;border-color:#d4d4d4}.entp-faq .accordion-item .accordion-header .accordion-button,.managed-ser-com .col-12 p{font-size:20px}.business-mail-type{padding-bottom:40px;text-align:left}.Business-mail-banner .col-md-6 button a{padding:10px 20px;color:#fff;background-color:#1b1a19;border-radius:2px;text-align:center}.Business-mail-banner .col-md-6 h2{text-align:left;font-size:55px;font-weight:500}.Business-mail-banner .col-md-6 p{padding:5px;color:#000}.business-email-brand .col-md-6 img{width:100%;height:100%}.business-email-brand .col-md-6 h3{color:#000a66;padding:10px 0}.business-email-feat-sec{padding:30px 20px;background-color:#186ec3}.business-email-feat .col-lg-3 i{color:#fff;text-align:center;font-size:50px;padding:10px 0}.business-email-feat .col-lg-3{text-align:center;scale:0.96}.business-email-demo .col-md-6 h3{font-size:40px;padding:20px 0;color:#000;background-color:none}.business-email-demo .col-md-6 button{padding:30px 0;background-color:transparent}.business-email-demo .col-md-6 button a{background-color:transparent;padding:15px 20px;border-radius:3px;color:#fff;font-size:17px}.business-email-demo .col-md-6 button a:hover{background-color:transparent}.business-email .accordion-item button{color:#000;font-size:19px;font-weight:450}.business-email .accordion-item .accordion-collapse .accordion-body h5{font-size:17px;font-weight:600}.business-email .accordion-item .accordion-collapse .accordion-body ol{padding:0 40px}.business-email .accordion-item .accordion-collapse .accordion-body ol li{font-size:16px;list-style-type:decimal}.spamfilter-ban-sec{padding:40px 20px;background-image:url(https://res.cloudinary.com/dwyn5jgh3/image/upload/v1723617111/bg-spam_pxeslf.webp)}.spamfilter-ban-sec .container .row .col-12 h1{color:#ffbe00;font-size:38px}.spamfilter-ban .ban-left{display:flex;align-content:center}.spamfilter-ban .ban-left ul li i{font-size:15px;color:#ffbe00}.spamfilter-ban .ban-left ul li{color:#fff;font-size:14px;padding:5px}.spamfilter-sec1 h2{color:#282b69;font-size:24px;text-align:center}.spamfilter-trail-sec{background-color:#eee;padding:40px}.spamfilter-trail-sec .container .row .col-12 h3{text-align:center;padding:20px;color:#282b69;font-size:24px}.spamfilter-trail .col-md-6 .collapse .card .trail{text-align:center;height:600px;overflow:auto}.spamfilter-trail .col-md-6 .btn{margin:20px;background-color:#286090;color:#fff}.spamfilter-trail .col-md-6 .btn:hover{margin:20px;background-color:#ffbe00;color:#000}.spamfilter-trail .col-md-6 .collapse .card{background-color:#eee;border:none}.spamfilter-trail .col-md-6 .collapse .card .trail h4{text-align:left;color:#333;font-size:22px;font-weight:600;padding:10px 0}.spamfilter-trail .col-md-6 .collapse .card .trail h5{text-align:left;color:#282b69;font-size:19px;font-weight:600}.spamfilter-trail .col-md-6 .collapse .card .trail p{padding:0 10px}.email-hosting-list li,.spamfilter-trail .col-md-6 .collapse .card .trail ul li{list-style:disc}.spamfilter-feat-sec .container .row .col-md-6 h4{color:#282b69;font-size:25px;padding:20px 0}.spamfilter-pro-sec{padding:20px;background-color:#eee}.spamfilter-pro-sec .container .row .col-12 h3{color:#282b69;font-size:22px;text-align:center}.spamfilter-pro .col-lg-4{padding:10px;scale:0.96}.spamfilter-pro .col-lg-4 h4{color:#282b69;font-size:18px}.spamfilter-pro .col-lg-4 hr{opacity:.5;color:#25aee4}.spamfilter-faq-sec .container .row .col-12 h2{font-size:25px;color:#282b69;text-align:center}.spamfilter-faq .accordion-item .accordion-header .accordion-button{padding:15px 20px;background-color:#777;color:#fff;font-weight:500}.spamfilter-faq .accordion-item .accordion-body,.spamfilter-faq .accordion-item .collapse .accordion-body{background-color:#09afdf}.spamfilter-faq .accordion-item .collapse .accordion-body p{font-size:17px;color:#fff}.request-banner-sec{background-image:url(https://res.cloudinary.com/dwyn5jgh3/image/upload/v1723630640/top_tnm0hy.webp);align-content:center;height:250px}.request-banner-sec h1{color:#fff;font-size:30;text-align:center}.requestform-sec .container .row .col-12 h3{padding:10px;font-size:25px;text-align:center}.float-icon-left{position:fixed;top:260px;left:1px;display:flex;flex-direction:column;align-items:center;z-index:1000}.float-icon-left .con{width:45px;text-align:center;height:45px;padding:10px}.float-icon-left .con i{font-size:20px;color:#fff}.iconStyle{padding:10px;background-color:#fff;cursor:pointer}.float-icon-left .con:first-of-type{border-radius:0 6px 0 0}.float-icon-left .con:nth-of-type(2){border-radius:0 0 6px}.floatingContainerStyle{position:fixed;top:220px;right:1px;display:flex;flex-direction:column;align-items:center;z-index:1000}.contactStyle{display:flex;padding:10px;align-items:center;justify-content:center;background-color:#2e2eff;border-radius:10px;color:#fff;text-decoration:none;box-shadow:0 0 10px rgba(0,0,0,.1);writing-mode:vertical-rl;transform:rotate(180deg);align-content:center;width:40px}.textStyle{color:#fff;height:150px;font-size:15px;font-weight:500;font-family:Verdana,Geneva,Tahoma,sans-serif}.modalOverlay{position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,.5);display:flex;justify-content:center;align-items:center;z-index:1001}.modalContent{background:#fff;padding:20px;border-radius:8px;width:400px;max-width:90%;position:relative}.About-container-banner,.missionvision-container-banner,.who-we-are-image{background-repeat:no-repeat;background-position:center center}.modalContent h2{margin-top:0;text-align:center}.modalContent form{display:flex;flex-direction:column}.modalContent input,.modalContent textarea{margin-bottom:15px;padding:10px;border:1px solid #ccc;border-radius:4px;width:100%}.modalContent button{padding:10px;background-color:#6c63ff;color:#fff;border:none;border-radius:4px;cursor:pointer}.modalContent button[type=button]{background-color:#ccc}.modalContent button:hover{opacity:.9}.model-but .but-2{background-color:transparent!important;position:absolute;top:18px;right:3px}.model-but button i{color:#000;font-size:25px;background-color:none}.model-but button i:hover{color:#ca0000;font-size:25px}.high-availability-banner-column{height:400px;background-color:rgba(0,19,104,.918);background-repeat:no-repeat;background-size:cover}.high-availability-banner-image{height:400px;width:90%;padding-top:20px}.high-availability-banner-heading{font-size:40px;font-family:'system-ui';color:#fff;padding-top:100px;font-weight:600}.high-availability-banner-para{font-size:20px;font-family:Arial,Helvetica,sans-serif;color:#fff;text-align:center;padding-left:20px}.high-availability-second-content{width:93%;padding-left:100px;font-size:18px;font-family:Arial,Helvetica,sans-serif;color:#000;text-align:justify}.high-availability-second-content h1{font-size:35px;color:#004;font-weight:600;font-family:system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen,Ubuntu,Cantarell,'Open Sans','Helvetica Neue',sans-serif}.benefits-heading,.our-services-container{padding-top:30px}.career-description-title,.data-center-list li{font-size:18px;color:#000}.data-center-last-column,.data-center-last-column2{font-size:18px;color:#000;font-family:Arial,Helvetica,sans-serif;padding:5px;width:90%}.data-center-last-column li{padding:5px 5px 5px 100px}.incoming-spamfilter-box-section-column h1{font-size:20px;font-family:"system-ui";color:#01042c;font-weight:500}.accordation-para,.accordation1-list1 li,.carrer-sec-left p,.incoming-spamfilter-box-section-column p{font-size:16px;font-family:Arial,Helvetica,sans-serif}.About-container-banner{background-image:url(https://res.cloudinary.com/dwyn5jgh3/image/upload/v1723178274/about-us_ndyoj8.jpg);background-size:cover;height:400px}.About-container-banner-content-heading{padding:150px 10px 10px 20px;font-size:50px;font-family:system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen,Ubuntu,Cantarell,'Open Sans','Helvetica Neue',sans-serif;color:#ff0}.About-container-banner-content-para{font-size:25px;font-family:Arial,Helvetica,sans-serif;color:#fff;padding-left:20px}.Aboutmain-section2-mainheading,.accordion-button,.career-description-title,.it-support-service1 .col-12 h4,.methodology-container-section2-Heading,.methodology-container-section2-para,.missionvision-container-banner-content-heading,.privacypolicy-container-banner-content-heading,.privacypolicy-section2-heading,.second-container-column1-heading,.second-container-column2-heading,.sitemap-container-banner-content-heading,.testimonials-container-banner-content-heading,.whysixthstar-container-banner-content-heading{font-family:system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen,Ubuntu,Cantarell,'Open Sans','Helvetica Neue',sans-serif}.Aboutmain-section2-mainheading{font-size:40px;color:#000;border-bottom:none;padding:20px}.who-we-are-image{background-image:url(https://res.cloudinary.com/dwyn5jgh3/image/upload/v1723178298/who-we-are_bniiwd.jpg);background-size:contain;height:300px;width:100%}.who-we-are-container{padding:50px;align-content:center}.missionvision-container-banner{background-image:url(https://res.cloudinary.com/dwyn5jgh3/image/upload/v1723178541/mission-vision-min_agfk3l.webp);background-size:cover;height:400px}.missionvision-container-banner-content{padding-top:100px;padding-left:20px}.missionvision-container-banner-content-heading{color:#ffe600;font-size:60px}.missionvision-container-banner-content-para{color:#fff;font-size:20px;font-family:Arial,Helvetica,sans-serif}.second-container-column1-heading{padding-top:20px;font-size:40px;color:#001042}.second-container-column1-para{padding-top:15px;font-size:20px}.second-container-column1-list1 li{padding:5px;font-size:15px;font-family:Arial,Helvetica,sans-serif}.second-container-column2-heading{padding-top:20px;font-size:40px}.second-container-column2-list2{padding-top:15px}.second-container-column2-list2 li{padding:5px;font-size:17px;font-family:Arial,Helvetica,sans-serif}.map{padding-top:10px}.whysixthstar-container-banner{background-image:url(https://res.cloudinary.com/dwyn5jgh3/image/upload/v1723178177/whysixthstar6_th1lxx.jpg);background-color:#002d69;background-position:center center;background-repeat:no-repeat;background-size:contain;height:300px;width:100%}.businessmodels-container-banner,.testimonials-container-banner{background-position:top center;background-size:contain;width:100%;background-repeat:no-repeat;height:300px}.whysixthstar-container-banner-content{padding:100px}.whysixthstar-container-banner-content-heading{color:#fff;font-size:50px;text-align:center}.whysixthstar-container-banner-content-para{color:#fff;font-size:20px;font-family:Arial,Helvetica,sans-serif;padding-top:5px;text-align:center}.whysixthstar-second-container-heading{font-size:30PX;font-family:system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen,Ubuntu,Cantarell,'Open Sans','Helvetica Neue',sans-serif}.methodology-container-section2-list1 li,.methodology-container-section2-para2,.privacypolicy-section2-para,.whysixthstar-second-container-para{font-size:18px;font-family:Arial,Helvetica,sans-serif}.whysixthstar-second-container-content2-heading{font-size:30px;font-family:system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen,Ubuntu,Cantarell,'Open Sans','Helvetica Neue',sans-serif;padding:10px 2px 2px}.whysixthstar-second-container-content2-para{font-size:18px;font-family:Arial,Helvetica,sans-serif;padding-right:5px}.whysixthstar-second-container-content2-list{padding-right:5px}.businessmodels-container-banner{background-image:url(https://res.cloudinary.com/dwyn5jgh3/image/upload/v1723178216/businessmodels3_vwct2w.jpg);background-color:#437b99}.businessmodels-container-banner-content{padding:100px 40px 100px 100px}.businessmodels-container-banner-content-heading{font-size:50px;font-family:system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen,Ubuntu,Cantarell,'Open Sans','Helvetica Neue',sans-serif;color:#fff}.businessmodels-container-banner-content-para{font-size:20px;font-family:Arial,Helvetica,sans-serif;color:#fff}.bulk-email-adv-feature,.businessmodels-second-container-content{padding:40px}.businessmodels-second-container-heading{font-size:40px;font-family:system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen,Ubuntu,Cantarell,'Open Sans','Helvetica Neue',sans-serif;color:#000}.businessmodels-second-container-para,.businessmodels-second-container-para2-1,.testimonials-section2-column1-para{font-size:17px;font-family:Arial,Helvetica,sans-serif;color:#000}.businessmodels-second-container-heading-2{font-size:19px;font-family:system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen,Ubuntu,Cantarell,'Open Sans','Helvetica Neue',sans-serif;color:#1e2374}.businessmodels-second-container-para2{font-size:25px;font-family:Arial,Helvetica,sans-serif;color:#000;font-style:italic}.businessmodels-second-container-list1,.sitemap-column1,.testimonials-section9-column1{padding-bottom:20px}.testimonials-container-banner{background-image:url("https://res.cloudinary.com/dwyn5jgh3/image/upload/v1721910666/testimonial2_nfvtdm.jpg");background-color:#306aa6}.career-container-banner,.clients-container-banner,.methodology-container-banner{background-color:#306aa6;background-position:center;background-size:cover}.testimonials-section2-column2-image1{width:50%;height:300px;padding:20px;display:inline-block}.testimonials-section2-column1-container{padding:20px 10px 40px 40px;border:1px solid #38b6ff;border-radius:5px;box-shadow:#e9e9e9;width:70%;display:inline-block}.testimonials-section2,.testimonials-section2-column3{text-align:right}.testimonials-section2-column2,.testimonials-section3{text-align:left}.testimonials-section2-column1{padding-top:30px;padding-left:60px}.testimonials-section2-column1-heading{text-align:left;font-size:30px;font-family:system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen,Ubuntu,Cantarell,'Open Sans','Helvetica Neue',sans-serif;color:#000}.testimonials-section3-column2-image1{width:60%;height:300px;padding:20px}.career-section2-column3,.testimonials-section3-column1-container{padding:40px 10px 40px 40px;border:1px solid #38b6ff;border-radius:5px;box-shadow:#e9e9e9;width:70%;display:inline-block}.emailserver-banner .col-md-6 form .formField input,.emailserver-banner .col-md-6 form .formField textarea{border-bottom:1px solid grey;border-top:none;border-left:none;border-right:none;border-radius:0}.testimonials-section4-column1{padding-left:60px}.testimonials-container-banner-content{text-align:center;padding-right:500px;padding-top:100px}.testimonials-container-banner-content-para{text-align:center;padding-right:10px;color:#fff;font-family:Arial,Helvetica,sans-serif;font-size:20px}.testimonials-container-banner-content-heading{color:#fff;font-size:50px}.clients-container-banner{background-image:url("https://res.cloudinary.com/dwyn5jgh3/image/upload/v1721985791/clientbanner.jpg");background-repeat:no-repeat;height:300px;width:100%}.clients-container-banner-content-para{text-align:center;color:#fff;font-size:40px}.clients-container-banner-content-heading{padding-top:100px;color:#fff;font-size:50px}.clients-section2-column-image1{width:246px;height:120px;padding:20px}.career-container-banner,.sitemap-container-banner{background-repeat:no-repeat;height:300px;width:100%}.career-container-banner{background-image:url("https://res.cloudinary.com/dwyn5jgh3/image/upload/v1721992310/career1.jpg")}.accordation1-list1 li{padding:7px}.career-section2-title-heading{padding:10px;color:#010924fd}.career-section2-title-para{padding-left:15px}.career-container-banner-content-heading{text-align:center;color:#000;font-size:50px;font-family:system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen,Ubuntu,Cantarell,'Open Sans','Helvetica Neue',sans-serif}.career-container-banner-content-para{text-align:center;font-size:20px;font-family:Arial,Helvetica,sans-serif;color:#000}.methodology-container-banner{background-image:url("https://res.cloudinary.com/dwyn5jgh3/image/upload/v1722073341/methodology2.jpg");background-repeat:no-repeat;height:400px;width:100%}.methodology-section3-colum3-imag1{width:90%;height:500px;padding:20px}.methodology-section3-columstart{width:50%}.methodology-section2-heading{padding:15px;text-align:center;font-size:30px;font-family:system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen,Ubuntu,Cantarell,'Open Sans','Helvetica Neue',sans-serif;color:#000a66}.methodology-section2-para{padding-left:15px;text-align:center;font-size:18px;font-family:Arial,Helvetica,sans-serif}.methodology-colum-heading,.methodology-lastcolumn-heading{padding:15px;font-size:25px;font-family:system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen,Ubuntu,Cantarell,'Open Sans','Helvetica Neue',sans-serif;color:#000a66}.methodology-colum-para,.methodology-lastcolumn-para{padding-left:15px;font-size:18px;font-family:Arial,Helvetica,sans-serif}.methodology-container-banner-content-heading{text-align:center;font-size:60px;font-family:system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen,Ubuntu,Cantarell,'Open Sans','Helvetica Neue',sans-serif;padding-top:20px;color:#fff}.methodology-container-banner-content-para{text-align:center;font-size:30px;font-family:Arial,Helvetica,sans-serif;color:#fff}.privacypolicy-container-banner,.termsofservices-container-banner{background-color:#306aa6;background-position:center;background-repeat:no-repeat;background-size:cover;height:300px;width:100%}.sitemap-column1,.sitemap-listfinal-heading{padding-left:200px}.sitemap-list,.sitemap-list1-heading{padding-top:5px}.sitemap-list li{font-size:20px;font-family:Arial,Helvetica,sans-serif;padding:2px}.termsofservices-container-banner{background-image:url("https://res.cloudinary.com/dwyn5jgh3/image/upload/v1722239251/terms_and_condition_crsvr7.jpg")}.termsofservices-container-banner-content-heading{text-align:center;padding-top:100px;font-size:50px}.privacypolicy-section2-heading,.termsofservices-section2-heading{padding:10px;font-size:30px}.termsofservices-section2-para{padding:10px;font-size:19px}.privacypolicy-container-banner{background-image:url("https://res.cloudinary.com/dwyn5jgh3/image/upload/v1722247160/privacy_policy_izmhbn.jpg")}.privacypolicy-container-banner-content-heading{color:#fff;font-size:50px;text-align:center;padding-top:100px}.privacypolicy-section2-para{padding:15px}.methodology-container-section2-para2{padding:2px 2px 2px 50px}.methodology-container-section2-para{font-size:30px;color:#042152;padding:2px 2px 2px 50px}.methodology-container-section2-list1 li{color:#000;padding:10px 10px 10px 50px}.methodology-container-section2-Heading{font-size:35px;color:#000;text-align:center;padding-top:20px}.methodology-container-section2-paragraph{color:#000;padding-left:50px}.server-setup-ban-sec{height:300px;align-content:center;display:block;background-position:center}.server-setup-ban-sec .container{background-image:url('https://res.cloudinary.com/dwyn5jgh3/image/upload/v1728367782/server-setup-banner_zqbjcc.webp')}.server-setup-feat-sec{background-color:#fafdff;padding:10px}.server-setup-ban-sec .container .row .col-12 h1{color:#011c7a;font-size:40px;font-weight:600}.server-setup1 .col-lg-4 img{width:100%;position:sticky;top:80px}.server-setup-why .col-lg-4{padding:20px;scale:.92;box-shadow:0 0 10px 0 rgba(0,0,0,.5);border-radius:8px;background-color:#fff}.server-setup-why .col-lg-4 i{font-size:30px;padding:10px}.server-setup-why .col-lg-4 p{font-size:20px;color:#000}.server-setup-why .col-lg-4 h3{font-size:26px;color:#11009e}.itsupport-banner-sec{background-image:url('https://res.cloudinary.com/dwyn5jgh3/image/upload/v1729078467/blue-bg_sqzoga.png');padding:20px;height:450px;align-content:center}.itsupport-banner .col-md-6:first-of-type{text-align:left;align-content:center}.itsupport-banner .col-md-6 img{width:400;height:400px}.itsupport-banner .col-md-6 h1{font-size:50px;color:#fff;text-align:left;font-weight:600;padding:10px 0}.itsupport-banner .col-md-6 p{color:#fff;text-align:left;padding:10px 0;font-size:18px}.itsupport-banner .col-md-6 button{margin-top:10px;text-align:left;background:0 0}.itsupport-banner .col-md-6 button a{padding:15px 20px;background-color:#0034e0;border-radius:5px;color:#fff}.itsupport-banner .col-md-6 button a:hover{background-color:#1047ff;transition:.2s ease-in}.it-support-service1-sec{padding:20px;background-color:#f9f9f9}.it-support-service1 .col-12 h4{font-size:20px;font-weight:500;color:#000a66}.it-support-service1 .col-12 h3{color:#0e2b3d;font-size:20px;font-weight:600;padding:10px}.it-support-service1 .col-12 .service1 .col-lg-4{background-color:#fff;padding:30px;scale:0.92;border-radius:5px;text-align:center}.it-support-service1 .col-12 .service1 .col-lg-4 h3{color:#0e2b3d;font-size:20px;padding:10px 0;position:relative}.it-support-service1 .col-12 .service1 .col-lg-4:hover h3{color:#11009e;transition:.3s ease-out}.it-support-service1 .col-12 .service1 .col-lg-4::before{content:'';position:absolute;top:0;left:50%;width:0;height:3px;background-color:#0034e0;transition:width .4s ease-out,left .4s ease-out}.it-support-service1 .col-12 .service1 .col-lg-4:hover::before{width:90%;left:5%}.itsupport-client-sec{padding:50px 20px;background-color:#f7fbff}.itsupport-client .col-md-6 h5{color:#000a66;padding-top:10px;font-weight:600;font-size:18px;border-bottom:2px solid #000a66;display:inline}.itsupport-client .col-md-6 h2{font-size:40px;font-weight:600;padding:10px 0}.emailserver-banner-sec{padding:20px;height:550px;align-content:center;background-image:url("https://res.cloudinary.com/dwyn5jgh3/image/upload/v1729078467/blue-bg_sqzoga.png")}.emailserver-banner .col-md-6 h1{font-size:45px;padding:10px 0;color:#fff;font-weight:600}.emailserver-banner .col-md-6 h2{font-size:25px;padding:10px 0;color:#fff}.emailserver-banner .col-md-6 .feature{padding-top:20px;color:#fff}.emailserver-banner .col-md-6 .feature .col .icon{background-color:#fff;display:inline-block;padding:10px;border-radius:5px}.emailserver-banner .col-md-6 .feature .col h3{font-size:18px;font-family:'__Roboto_371575';padding:20px 0}.emailhostingform{width:350px;padding:30px;background-color:#fff;border-radius:5px;display:inline-block;box-shadow:0 0 5px 0 rgba(0,0,0,.5)}.truncate-text,.truncate-text1{display:-webkit-box;-webkit-box-orient:vertical;overflow:hidden;text-overflow:ellipsis}.emailserver-banner .col-md-6 form .formField textarea{height:80px}.emailserver-banner .form-sec{padding:10px 50px;text-align:center}.email-server-provider .col-md-6{align-items:center;text-align:center}.email-server-provider .col-md-6 img{width:400px;height:auto;position:sticky;top:80px;display:inline-block}.email-hosting-fetaure-sec{padding:50px;background-color:#1484fd}.bulk-email-banner-sec,.email-hosting-platform-sec{background-color:#f7fbff;text-align:center}.email-hosting-fetaure .col-12 h2{color:#fff;font-size:30px}.email-hosting-fetaure .col-12 .fetaure-block .row .col-md-6 .feat h3,.email-hosting-platform .col-md-6 h3{color:#11009e;font-size:25px;font-weight:600}.email-hosting-fetaure .col-12 .fetaure-block{background-color:#fff;padding:30px;border-radius:20px;width:80%;display:inline-block;margin-top:30px;box-shadow:0 0 5px 0 rgba(0,0,0,.3)}.email-hosting-fetaure .col-12 .fetaure-block .row .col-md-6 .feat{text-align:left;padding:20px}.email-hosting-fetaure .col-12 .fetaure-block .row .col-md-6 .feat .icon i{color:#00f;font-size:50px}.email-hosting-fetaure .col-12 .fetaure-block .row .col-md-6 .feat ul{padding-left:20px;margin:0}.email-hosting-fetaure .col-12 .fetaure-block .row .col-md-6 .feat ul li{list-style:inside;font-size:17px;padding:8px 0}.emailhosting-why .col-12 ul li i{padding:5px 15px;color:#011c7a;font-weight:600}.email-hosting-platform .col-md-6{text-align:center;align-content:center;padding:20px}.email-hosting-platform .col-md-6 img{width:200px;height:auto;display:inline-block}.email-hosting-list{padding-left:25px}.email-hosting-fetaure .col-12 .fetaure-block2{padding:30px;width:80%;display:inline-block;margin-top:30px;color:#fff}.why-choose-us-email-server ul li i{color:#001042;font-size:25px;padding:12px}.bulk-email-banner-sec{padding:30px;align-content:center;background-image:url(https://res.cloudinary.com/dwyn5jgh3/image/upload/v1729230850/bul_email_banner_i59atp.png);background-size:cover;background-repeat:no-repeat;background-position:0 -40px;height:600px}.bulk-email-banner .col-12 h1{padding:20px;font-size:40px;color:#fff;font-weight:600}.bulk-email-banner .col-12 p{text-align:center;color:#fff}.bulk-email-banner .col-12 .but{padding-top:60px;padding-bottom:30px}.bulk-email-banner .col-12 .but button{padding:20px;background:0 0}.bulk-email-banner .col-12 .but .btn1 a{padding:15px 20px;background-image:linear-gradient(180deg,#1c40f2,#0064c2);border-radius:5px;color:#fff;font-size:18px}.bulk-email-banner .col-12 .but .btn2 a{padding:15px 20px;background-color:transparent;border:1px solid #fff;border-radius:5px;color:#fff;font-size:18px}.bulk-email-slide img{display:inline!important;text-align:center}.bulk-email-slider-sec{padding-top:50px}.bulk-email-slide{padding:30px;background-color:#fff;text-align:center;width:300px;height:180px;align-content:center;border:1px solid rgba(220,220,220,.5);scale:0.9;border-radius:8px}.bulk-email-slide h4{padding:20px 0;color:#11009e;font-size:18px;font-weight:600}.bulk-email-pricing-sec{padding-bottom:50px;background-color:#f7f7f7}.bulk-email-pricing .price{box-shadow:0 0 5px 0 rgb(196 196 196 / 64%);scale:1}.bulk-email-pricing .price h3,.server-address h3,.server-sales h3,.server-support h3{font-size:22px}.bulk-email-pricing .price ul{padding-left:10px!important}.bulk-email-pricing .price ul li{font-size:15px;text-align:left}.bulk-email-pricing .price ul li i{color:#1c40f2;padding:0 5px}.bulk-email-pricing .price.bulk-email-proud-sec{background-color:#1e2374;padding:30px}.bulk-email-proud .col-12 h2{text-align:center;color:#fff;font-size:45px;font-weight:600}.bulk-email-proud .col-12 .row .col-lg-3 .icon{background-color:#fff;text-align:center;border-radius:5px}.bulk-email-proud .col-12 .row .col-lg-3 img{display:inline;width:210px;height:105px}.bulk-email-feature-sec{padding:50px;background-color:#f7fbff}.bulk-email-feature{background-color:#fff;padding:40px;border-radius:10px;box-shadow:0 0 5px 0 rgb(233 233 233 / 64%)}.email-host-company-banner-sec,.email-host-company-why .col-lg-3{padding:20px;text-align:center}.bulk-email-feat .col-lg-4 h4{color:#11009e;font-size:20px;font-weight:600;padding:10px 0}.bulk-email .row .col-12 ul{text-align:center;padding-left:80px}.email-host-company-banner-sec{height:550px;background-image:url('https://res.cloudinary.com/dwyn5jgh3/image/upload/v1730445567/hosting-company-banner_imjmzg.png');background-size:cover;background-position:bottom}.email-host-company-banner .col-12 h1{padding-top:40px;color:#fff;font-weight:700;font-size:50px;text-shadow:#00000054}.email-host-company-banner .col-12 p{padding:10px 0;color:#fff;text-align:center;font-size:20px}.email-host-company-feature-sec,.email-host-company-why-sec{padding:10px 40px;background-color:#f7f7f7}.email-host-company-why-sec .container{background-color:#fff;border-radius:20px}.email-host-company-why .col-lg-3 h3{font-size:22px;font-weight:600;text-align:center}.email-host-company-why .col-lg-3 p{font-size:17px;text-align:center}.email-host-company-why .col-lg-3:first-of-type,.email-host-company-why .col-lg-3:nth-of-type(2),.email-host-company-why .col-lg-3:nth-of-type(3){border-bottom:1px solid #eee;border-right:1px solid #eee}.email-host-company-why .col-lg-3:nth-of-type(4){border-bottom:1px solid #eee}.email-host-company-feature-sec .container{background-color:#fff;border-radius:20px;padding:10px 30px}.email-host-company-feature-sec .container .row .col-12 h2{color:#333;text-align:left;padding:20px 0}.email-host-company-feat nav .nav-tabs{font-weight:500;color:#011c7a}.email-host-company-feat nav .nav-tabs .nav-link.active{background-image:none;padding:10px;text-align:left}.email-host-company-feat .tab-content .tab-pane h3{font-size:35px;padding:20px 0;color:#484848}.seo-ban-float .heading:first-of-type{display:inline-block;width:200px;padding:10px;box-shadow:0 .3rem 1rem rgba(0,0,0,.15);border-radius:10px}.seo-ban-float .heading:nth-of-type(2){background-color:#fff;height:100px;text-align:center;align-content:center;border-radius:10px;scale:.9;padding:10px;width:300px;box-shadow:0 .3rem 1rem rgba(0,0,0,.15)}.email-sol-banner-sec{padding:20px;height:480px;align-content:center;background-image:url('https://res.cloudinary.com/dwyn5jgh3/image/upload/v1730523224/gradient-blue-abstract-background-smooth-dark-blue-with-black-vignette-studio_1258-68032_c5d9og.jpg');background-size:cover}.email-sol-banner h1{color:#fff;font-size:45px;font-weight:600;padding:10px 0}.email-sol-banner p{color:#ff6100;font-size:21px;font-weight:600}.email-sol-mail .col-md-6{padding:20px;align-content:center;text-align:center}.email-sol-mail .col-md-6 .mail{padding:25px;box-shadow:0 .3rem 1rem rgba(0,0,0,.1);border-radius:8px}.email-sol-mail .col-md-6 .mail button{padding:20px;background-color:transparent}.email-sol-mail .col-md-6 .mail button a{background-color:transparent;background-image:linear-gradient(180deg,#1c40f2,#0064c2);border-radius:5px;padding:10px 20px;color:#fff}.managed-ser-banner-sec{padding:20px;height:450px;align-content:center;background-image:url("https://img.freepik.com/premium-vector/abstract-blue-light-blurred-background-art-projects_901408-24869.jpg?uid=R99690482&ga=GA1.1.719469682.1713371764&semt=ais_hybrid");background-size:cover}.managed-ser-banner .col-md-6 img{width:450px;height:auto}.managed-ser-banner .col-md-6 h1{color:#fff;padding:10px 0}.managed-ser-banner .col-md-6 button{padding:20px 0;background-color:transparent}.managed-ser-banner .col-md-6 button a{color:#fff;background-color:#1b1a19;padding:10px 20px;border-radius:5px}.managed-ser-banner .col-md-6 button a:hover{background-color:#373736;transition:.4s ease-out}.managed-ser-plan .col-md-6 .con{padding:32px;border:1px solid #c4c6ca;border-radius:10px;box-shadow:0 .3rem 1rem rgba(0,0,0,.1)}.managed-ser-plan .col-md-6 .con ul li{list-style:inside;padding:5px}.managed-ser-plan .col-md-6 .con h3{display:flex;justify-content:space-between}.managed-ser-spec .nav-tabs .nav-link{padding:20px;border:none;font-size:20px;color:#1b1a19}.managed-ser-spec .nav-tabs .nav-link.active{background-image:none;border-bottom:3px solid #0034e0;background-color:transparent;color:#1b1a19}.managed-ser-spec-con .col-md-6 h3{padding:10px 0;font-size:35px;font-weight:700}.managed-ser-com .col-12 .comparison-table{width:100%;border-collapse:collapse;margin:20px 0;font-family:Roboto,sans-serif;box-shadow:0 4px 8px rgba(0,0,0,.1)}.managed-ser-com .col-12 .comparison-table thead{background-color:#f7f7f7;color:#fff}.managed-ser-com .col-12 .comparison-table td:first-of-type,.managed-ser-com .col-12 .comparison-table th:first-of-type{padding:22px 35px;text-align:justify;border:1px solid #ddd}.managed-ser-com .col-12 .comparison-table td,.managed-ser-com .col-12 .comparison-table th{padding:22px 35px;text-align:center;border:1px solid #ddd}.managed-ser-com .col-12 .comparison-table td .fa-times{color:#f44336}.managed-ser-com .col-12 .comparison-table th{font-size:20px;letter-spacing:.05em;color:#212529}.managed-ser-com .col-12 .comparison-table td{font-size:18px;letter-spacing:.05em;color:#212529}.managed-ser-com .col-12 .comparison-table td i{color:#28a745;font-size:1.2em}.email-arch-banner-sec{padding:20px;align-content:center;height:450px;background-color:#f7fbff}.email-arch-banner .col-md-6 h1{padding:10px 0;font-size:40px;font-weight:600;color:#000a66}.email-arch-banner .col-md-6 button{margin-top:40px;padding:20px 0;background-color:transparent;border:none}.email-arch-banner .col-md-6 button a{padding:10px 15px;border-radius:5px;background-image:linear-gradient(180deg,#1c40f2,#0064c2);color:#fff}.email-arch-banner .col-md-6 button a:hover{background-image:linear-gradient(180deg,#0064c2,#1c40f2)}.email-arch-why-sec{background-color:#292f6f;padding:60px 0;color:#fff}.email-arch-why-sec h3{font-size:2rem;margin-bottom:50px;font-family:Urbanist,sans-serif}.accordation-para ol li,.blog-card h2{font-family:Arial,Helvetica,sans-serif}.email-arch-why .col-lg-4{background-color:#373c80;padding:30px;border-radius:12px;text-align:center;transition:transform .3s,box-shadow .3s;scale:0.95}.email-arch-why .col-lg-4:hover{transform:translateY(-10px);box-shadow:0 8px 15px rgba(0,0,0,.3)}.email-arch-why .col-lg-4 .con img{margin-bottom:20px}.email-arch-why .col-lg-4 .con h4{font-size:1.5rem;margin-bottom:15px;color:#b5d1f5;font-weight:700}.email-arch-why .col-lg-4 .con p{font-size:1.2rem;line-height:1.6;color:#fff}.email-arch-block1-sec .container .row .col-12 h3,.email-arch-form-sec .container .row .col-12 h3{text-align:center;padding:10px 0;color:#000a66}.email-arch-block1-sec .container .row .col-12 p{text-align:justify;padding-bottom:10px}.email-arch-block1 .col-md-6 img{width:450px}.email-arch-block1 .col-md-6 h4{text-align:left;padding:10px 0;color:#000a66}.email-arch-block2-sec{padding:50px 10px;background-color:#f7fbff}.email-arch-form-sec .container .row .col-12 p{text-align:center;padding-bottom:10px}.emailarchForm form{padding:30px;border:1px solid #ccc;border-radius:5px}.emailarchForm form .row .col-md-6 textarea{height:110px;resize:none}.emailarchForm form .row .col-md-6 input{border-radius:3px}.emailarchForm form .row .col-md-6 label,.radio-group .radio-group-item label{font-weight:500}.mailserver1 .col-1 ol{margin-bottom:15px}.mailserver2-sec .container .row .col-12 .mailserver2:nth-of-type(3){background-color:#001932}.menu>li>a{display:flex;align-items:center;gap:8px;position:relative;transition:.3s;padding:10px}.menu>li>a img.icon{width:50px;height:40px;opacity:0;position:absolute;top:-10px;left:50%;transform:translateX(-50%);transition:.3s}.menu>li:hover>a img.icon{opacity:1;top:-10px}.menu>li:hover>a{color:#0034e0}form .checkbox{display:flex;padding:20px 0}form .checkbox input{font-size:12px;margin:10px 10px 10px 0;height:15px;width:15px}form .checkbox label,form .checkbox label a{font-weight:400;font-size:.9rem}.payroll-slider div h3,.rating,.zimbra-fet-first .row .col-lg-4 h4{font-weight:600}.radio-group .radio-group-item{display:flex;align-items:center;gap:8px}.radio-group .radio-group-item input{margin:0;width:15px}form input::placeholder{font-size:14px}.truncate-text1{-webkit-line-clamp:1}.home-stats p{margin:0;padding:10px 0;color:#fff}.truncate-text{-webkit-line-clamp:2}.sftp-benefits .col-lg-4 h3,.webdev-maint-sec .container .row .col-12 .row .col-lg-4 ul li h3{font-size:24px;font-weight:500;text-align:center}.appdev3 .flip-card-inner .flip-box-back p,.business-email-feat h4,.business-email-feat p,.entp-cont .cont .cont1 h4,.footer .copyright .copyright-content p a,.sitemap-container-banner-content-heading,.social li i{color:#fff}.server-address ul li a,.server-sales ul li a,.server-support ul li a{color:#0249b1}.payroll-slider div h3{font-size:22px}.payroll-tab .nav-pills .nav-link{color:#0249b1;font-weight:600}.domain-feat-slider div p{font-size:18px;font-weight:500;color:#fff}.gsuite-talk-sec h5{color:#fff;font-size:23px}.fleet-feat-1 .row .col-lg-4 .flip-box h3,.fleet-feat-2 .row .col-lg-4 .flip-box h3{color:#fff;font-size:20px;padding:20px 0}.gsuite-talk-sec .container .row .col-12 h3{color:#fff;font-size:35px}form label a{color:#0a51b8}.ha-tab-title ul li a{color:#0058ad;text-align:center}.alt-gsuite-ban .col-md-6 button a{background-color:#1c40f2;padding:10px 20px;border-radius:5px}.feat-table table thead tr td h3{color:#fff;font-size:20px;display:inline-block}.entp-cont .cont .cont1 p a{padding:0 10px;color:#fff}.entp-cont .cont .cont1{align-content:center;text-align:justify}.entp-cont .cont .cont1 h4,.entp-cont .cont .cont1 p{margin-bottom:0}.carrer-sec-left ul{margin-bottom:3px}.rating{padding:0 10px;font-size:18px}.email-hosting-platform .col-md-6 h3{text-align:left;padding:10px 0}.blog-card h2{font-size:25px}.admin-sec a,.blog-admin-left a{text-align:left;font-size:16px}.admin-sec h1{font-size:2rem}.blog-admin-sec form textarea{height:200px}.collapse{visibility:visible}.cert-Image{display:flex;justify-content:center}.ban-left ul,.contact-add .col-lg-3 ul,.footer-link,.single-footer .row .col-lg-6 ul,.social{padding-left:0}.sitemap-container-banner{text-align:center;align-content:center;background-image:url("https://res.cloudinary.com/dwyn5jgh3/image/upload/v1737625864/sitemap-banner_rcolrv.png");background-size:cover;height:400px}.sitemap-sec{background-color:#f0f8ff}.sitemap-sec .container{background-image:url("https://res.cloudinary.com/dwyn5jgh3/image/upload/v1737627368/logo-bg_jqpmql.png");background-repeat:no-repeat;background-size:contain;background-position:center}.termsofservices-section2-heading{font-size:30px;font-family:system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen,Ubuntu,Cantarell,'Open Sans','Helvetica Neue',sans-serif}.accordation-para ol li{font-size:17px}
+
+.main-nav a {
+    font-size: 16px;
+    font-weight: 550;
+    text-transform: capitalize;
+    color: #011c7a;
+    padding: 8px 20px;
+}
+.text-wrap2 {
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.text-wrap3 {
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.blog-navbar a {
+    font-size: 16px;
+    font-weight: 550;
+    text-transform: capitalize;
+    color: #011c7a;
+    padding: 15px 30px;
+}
+.navbar-nav .nav-link.show {
+    color: #ffffff;
+}
+
+.main-nav .nav-link:active {
+    color: #0d6efd;
+}
+#support-dropdown:hover {
+    color: #0d6efd;
+}
+.main-nav .dropdown .dropdown-menu a {
+    padding: 8px 20px;
+}
+.main-nav .dropdown .dropdown-menu {
+  
+    background: #fff;
+    -webkit-box-shadow: 0 3px 5px rgba(0, 0, 0, .2);
+    -moz-box-shadow: 0 3px 5px rgba(0,0,0,.2);
+    box-shadow: 0 3px 5px #3333334d;
+    transition: .3s;
+    border-left: 3px solid #2889e4;
+    min-width: 200px;
+}
+.main-nav .dropdown .dropdown-menu .dropdown-item:hover {
+   color: #fff;
+   background-color: #1a76d1;
+}
+.zimbra-client-sec-mob {
+    display: none;
+}
+
+.icon-feature-mob, .review-sec-mob {
+    display: none;
+}
+
+/* full stack page starts */
+.full-stack-banner-sec {
+    text-align: center;
+}
+.full-stack-banner-sec h2 {
+    font-size:25px;
+    font-weight: 600;
+}
+.full-stack-form .checkbox {
+    width: 12px;
+    height: 12px;
+}
+.full-stack-form label {
+  font-size:16px;
+  font-weight: 500;
+  font-family:"Noto Sans Hebrew", sans-serif;
+  color: #4a4a4a;
+}
+.full-stack-form textarea {
+    height: 100px;
+}
+.full-stack-form .grid label {
+  display:flex;
+}
+.full-stack-banner-sec .banner {
+    width: 90%;
+    height: auto;
+    /* background-image: url('https://res.cloudinary.com/dwyn5jgh3/image/upload/v1729078467/blue-bg_sqzoga.png'); */
+    background: linear-gradient(0deg, #589bff, #1b77ff 15.1%, #00237e);
+    border-bottom-left-radius: 3.125rem;
+    background-size: cover;
+    background-position: center;
+    display: inline-block;
+    border-radius: 30px;
+    /* height: 650px; */
+    padding: 40px;
+    align-content: center;
+}
+
+.full-stack-banner-sec .row .col-md-6:nth-of-type(2){
+    text-align: center;
+}
+.full-stack-banner-sec .row .col-md-6 h1{
+    padding: 10px 0;
+    font-size: 50px;
+    text-align: left;
+    color: white;
+    font-weight: 600;
+}
+.full-stack-banner-sec .row .col-md-6 p{
+    padding: 10px 0;
+    color: white;
+}
+.full-stack-banner-sec .row .col-md-6 .cert {
+    padding: 20px 0;
+    text-align: center;
+    display: flex;
+}
+.full-stack-banner-sec .row .col-md-6 .cert img{
+    padding: 0 5px;
+}
+.fullstackform h4 {
+    font-weight: 500;
+    margin: 0;
+    font-size: 1.3rem;
+}
+
+.fullstackform {
+    width: 400px;
+    background-color: #fff;
+    border-radius: 10px;
+    display: inline-block;
+}
+.fullstackform form button {
+  border-radius: 45px;
+}
+.fullstackform form textarea{
+  height: 80px;
+}
+/* .fullstackform .head {
+    padding: 18px;
+    background-color: #d6d6d6;
+    border-radius: 7px;
+} */
+.fullstack-client-sec {
+    padding: 20px 0;
+
+}
+.fullstack-client-sec .row .col-12 h3{
+    text-align: center;
+    font-size: 1.5rem;
+        line-height: 2.125rem;
+        font-weight: 500;
+        padding: 20px 20px;
+        background-color: white;
+        position: absolute;
+        left:30%;
+        text-transform: capitalize;
+        z-index: 3;
+        margin:0;
+}
+.fullstack-client-sec .row .col-12 .client {
+    padding: 20px 0;
+}
+.fullstack-client-sec .row .col-12 .client img:hover {
+    scale:1.02;
+    transition: 400ms ease-in-out;
+}
+.fullstack-client-sec .row .col-12 .head  {
+    position: relative;
+    height: 75px;
+}
+.fullstack-client-sec .row .col-12 .head .line{
+    content: "";
+    height: .125rem;
+    position: absolute;
+    right: 0;
+    width: 85%;
+    z-index: 0;
+    background: linear-gradient(90deg, hsla(0, 0%, 85%, .22), #d9d9d9 50%, hsla(0, 0%, 85%, .22));
+    position: absolute;
+    top:36%;
+    left:10%;
+}
+  .fullstack-success-sec .container .row .col-md-3 {
+    text-align: center;
+    align-content: center;
+  }
+  .fullstack-success-sec .container .row .col-md-3 button {
+    padding: 10px 15px;
+    border-radius: 40px;
+    background-color: #0d6efd;
+    border: 1px solid #0d6efd;
+}
+.fullstack-success-sec .container .row .col-md-3 button a {
+    color: white;
+    padding: 10px;
+    font-size: 16px;
+}
+.fullstack-success-sec .container .row .col-md-3 button:hover {
+    background-color: transparent;
+}
+  .fullstack-success-sec .container .row .col-md-3 button:hover a {
+    color: #0d6efd;
+    transition: 300msease-out;
+}
+  
+  .fullstack-success-sec .success-stories {
+    overflow-x: auto; /* Enable horizontal scrolling */
+    white-space: nowrap; /* Prevent wrapping of child elements */
+    height: 600px; /* Adjust height as needed */
+    padding-bottom: 20px; /* Add some padding to avoid cutting off content */
+    cursor: pointer;
+  }
+  
+  .fullstack-success-sec .success-stories .con {
+    display: inline-block; /* Display children inline */
+    width: 1156px; /* Set width of each child */
+    height: 560px; /* Set height of each child */
+    margin-right: 20px; /* Add spacing between items */
+    background-size: cover; /* Ensure background image covers the container */
+    background-position: center; /* Center the background image */
+    padding: 50px; /* Add padding inside each container */
+    scale: 0.94; /* Scale down the container */
+    vertical-align: top; /* Align items to the top */
+    border-radius: 30px;
+  }
+  
+  .fullstack-success-sec .success-stories .con img {
+    text-align: left;
+  }
+  
+  .fullstack-success-sec .success-stories .con h4 {
+    padding: 10px 0;
+    font-size: 30px;
+  }
+  
+  .fullstack-success-sec .success-stories .con ul {
+    padding: 20px 0;
+  }
+  
+ .fullstackbtn {
+    padding: 10px 15px;
+    border-radius: 40px;
+    background-color: #0d6efd;
+    border: 1px solid #0d6efd;
+  }
+  
+ .fullstackbtn:hover {
+    background-color: transparent;
+  }
+  
+ .fullstackbtn a {
+    color: white;
+    font-size: 16px;
+    padding: 10px;
+  }
+  
+  .fullstackbtn:hover a {
+    color: #0d6efd;
+    transition: 300ms ease-out;
+  }
+
+
+  .fullstack-success-sec .success-stories {
+    overflow-x: auto; /* Enable horizontal scrolling */
+    white-space: nowrap; /* Prevent wrapping of child elements */
+    height: 600px; /* Adjust height as needed */
+    padding-bottom: 20px; /* Add some padding to avoid cutting off content */
+    scrollbar-width: none; /* Hide scrollbar for Firefox */
+    -ms-overflow-style: none; /* Hide scrollbar for IE/Edge */
+  }
+  
+  .fullstack-success-sec .success-stories::-webkit-scrollbar {
+    display: none; /* Hide scrollbar for Chrome/Safari/Opera */
+  }
+
+  .fullstack-services-sec {
+    padding: 50px 0;
+    background: linear-gradient(280deg, #87c6fa, #c3d2f9 62.02%, #faf9f3);
+  }
+  .fullstack-services .col-md-6 {
+    padding: 20px;
+  }
+  .fullstack-services .col-md-6 h3 {
+    font-size: 35px;
+    padding: 10px 0;
+    font-weight: 600;
+  }
+  .fullstack-services .col-md-6 .accordion .accordion-item {
+    margin-bottom: 20px;
+  }
+.fullstack-services .col-md-6 .accordion .accordion-item .collapse {
+    visibility: visible;
+}
+.fullstack-services .col-md-6 .accordion .accordion-item .accordion-header button {
+    font-size: 20px;
+}
+.fullstack-services .col-md-6 .accordion .accordion-item .accordion-header button:hover {
+   color: #1b76fe;
+   
+}
+.fullstack-expertise-sec {
+  padding: 10px ;
+}
+.fullstack-expertise .col-12 {
+  padding: 20px;
+}
+.fullstack-head {
+  font-size: 30px;
+  padding: 10px 0;
+  font-weight: 600;
+}
+.fullstack-expertise-con p {
+  text-align: left;
+}
+.fullstack-expertise-con h3 {
+  font-size: 22.5px;
+  cursor: pointer;
+  text-align: center;
+  font-weight: 600;
+}
+.fullstack-hiring-sec {
+  padding: 20px 30px;
+  background-color: #fafbff;
+}
+.fullstack-hiring-tab button{
+border-radius: 50px;
+}
+
+.fullstack-hiring-con .box {
+  scale: 0.9;
+  padding: 20px;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+.fullstack-hiring-con .box:hover {
+  scale: 0.93;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  transition: 300ms ease-out;
+}
+.fullstack-hiring-con .box .head{
+  border-bottom: 1px solid #cfcfcf;
+  padding: 15px;
+}
+.fullstack-hiring-con .box ul {
+  padding: 10px;
+}
+.fullstack-hiring-con .box ul li i {
+ color: #2b7fff;
+ font-size: 20px;
+ padding: 5px;
+}
+.fullstack-hiring-con .box ul li {
+  font-size: 19px;
+  padding: 5px 0;
+  display: flex;
+ }
+.fullstack-hiring-con .box .head .num{
+ align-content: center;
+ font-size: 20px;
+}
+.fullstack-hiring-con .box .head h4 {
+  font-size: 25px;
+  font-weight: 600;
+}
+.fullstack-why-sec {
+  padding: 60px 0;
+  background: linear-gradient(280deg, #89c7fb, #c8d5f9 62.02%, #f9f9f4);
+}
+.fullstack-why .col-12 h3 {
+  padding: 0 20px;
+  font-size: 40px;
+  font-weight: 600;
+  width: 80%;
+}
+.fullstack-why .col-12 p {
+  padding: 10px 20px;
+}
+.fullstack-business-sec {
+  padding: 50px 0;
+  background-color: white;
+}
+.fullstack-business h3 {
+    font-size: 40px;
+    font-weight: 600;
+    text-align: left;
+}
+.fullstack-business p {
+  padding: 10px 0px;
+}
+.fullstack-hiring-con p {
+  font-size: 20px;
+  text-align: left;
+}
+.fullstack-head p {
+  font-size: 20px;
+}
+.fullstack-business .col-md-6 .box {
+  padding: 10px;
+}
+.fullstack-business .col-md-6 .box .con {
+  padding: 20px 30px;
+  border-radius: 8px;
+  box-shadow: rgb(60 60 61 / 12%) 0px 7px 29px 0px;
+}
+.fullstack-business .col-md-6 .box .con:hover {
+ scale: 1.02;
+ transition: 300ms ease-in-out;
+}
+.fullstack-business .col-md-6 .box .con img { 
+  padding: 10px;
+}
+.fullstack-process-sec  {
+  padding: 30px;
+  background-color: #f6f9ff;
+}
+
+.fullstack-cta-sec {
+  padding: 60px 20px;
+  background: linear-gradient(280deg, #89c7fb, #c8d5f9 62.02%, #f9f9f4);
+}
+.fullstack-cta .col-md-6:nth-of-type(2) {
+  text-align: center;
+}
+.fullstack-cta .col-md-6 {
+  align-content: center;
+}
+.fullstack-cta .col-md-6 h3 {
+  padding: 0 20px;
+    font-size: 40px;
+    font-weight: 600;
+}
+.fullstack-cta .col-md-6 p {
+    padding: 10px 20px;
+}
+.fullstack-cta .col-md-6 .call {
+  display: flex;
+  padding: 20px;
+  justify-content: stretch;
+}
+.fullstack-cta .col-md-6 .call .box  {
+  padding: 20px;
+  background-color: white;
+  border-radius: 10px;
+  display: flex;
+  width: 240px;
+  justify-content: space-between;
+  margin-right: 30px;
+}
+.fullstack-cta .col-md-6 .call .box:hover {
+  box-shadow: rgb(100 100 111 / 12%) 0px 7px 29px 0px;
+}
+.fullstack-cta .col-md-6 .call .box .col1 span{
+display: block;
+font-size: 14px;
+color: black;
+}
+.fullstack-cta .col-md-6 .call .box .col1 p {
+padding: 5px 0;
+margin: 0;
+}
+.fullstack-cta .col-md-6 .call .box .col1 p:nth-of-type(1){
+  color: #1b76fe;
+  font-size: 19px;
+}
+.fullstack-cta .col-md-6 .call .box .col1 a {
+  color: #1b76fe;
+  padding: 15px 0;
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.fullstack-cta .col-md-6 .call .box .col2 {
+  width: 50px;
+  text-align: right;
+}
+.fullstack-cta .col-md-6 .call .box .col2 i {
+  color: #1b76fe;
+}
+.font-sans{
+  font-family: ui-serif, Georgia, Cambria, Times New Roman, Times, serif;
+}
+.text-navy {
+    --tw-text-opacity: 1;
+    color: rgb(30 43 58 / var(--tw-text-opacity, 1));
+}
+
+.fullstackhireform {
+  width: 500px;
+  background-color: #fff;
+  border-radius: 5px;
+  display: inline-block;
+  box-shadow: 0 0 5px 0 rgba(0, 0, 0, .5);
+}
+.fullstackhireform .formField {
+  text-align: left;
+}
+.fullstackhireform .head {
+  padding: 18px;
+  background-color: #8591aa;
+  border-radius: 7px;
+}
+.fullstackhireform form {
+  padding: 10px 30px 30px 30px;
+}
+.fullstackhireform h4 {
+  font-weight: 500;
+  color: white; 
+  text-align: center;
+  margin: 0;
+  font-weight: 600;
+  font-size: 1.3rem;
+}
+.fullstackhireform label {
+  font-size: 16px;
+  font-weight: 500;
+  text-align: left;
+}
+.fullstackhireform textarea {
+  height: 100px;
+}
+.submitbtn {
+  width: 100%;
+  background-image: linear-gradient(180deg, #1c40f2, #0082f8);
+  color: #fff;
+  font-weight: 600;
+  border: none;
+  padding: 10px;
+  border-radius: 50px;
+  margin: 10px 0;
+}
+.submitbtn:hover {
+  background-image: linear-gradient(180deg,#0082f8, #1c40f2, );
+  
+}
+.fullstack-resource-sec {
+  padding: 30px;
+  background-color: #f6f9ff;
+  justify-content: flex-start;
+}
+
+.fullstack-resource .col-12 h3{
+  padding:20px;
+  font-size: 40px;
+  font-weight: 600;
+
+}
+.fullstack-resource .col-lg-4 {
+  padding: 20px;
+}
+
+.fullstack-resource .col-lg-4 .box {
+padding: 20px;
+background-color: white;
+border-radius: 10px;
+display: flex;
+justify-content: space-between;
+box-shadow: rgb(100 100 111 / 12%) 0px 7px 29px 0px;
+cursor: pointer;
+min-height: 280px;
+}
+.fullstack-resource .col-lg-4 .box:hover {
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+}
+.fullstack-resource .col-lg-4 .box .con span{
+display: block;
+font-size: 14px;
+color: black;
+}
+.fullstack-resource .col-lg-4 .box .con p {
+overflow: hidden;
+    padding: 10px 0;
+    height: 95px;
+}
+.laravelform {
+  width: 400px;
+}
+.fullstack-resource .col-lg-4 .box .con h4 {
+padding: 10px 0;
+margin-bottom: 0;
+}
+.fullstack-testimonial-sec {
+  padding: 30px;
+  background: linear-gradient(279.59deg, rgba(135, 198, 250, .7), rgba(195, 210, 249, .7) 62.02%, hsla(51, 41%, 97%, .7));
+}
+.fullstack-testimonial .col-12 h3{
+  padding:20px;
+  font-size: 40px;
+  font-weight: 600;
+}
+.testislider {
+  height: 300px;
+}
+
+.testislider .but {
+ position: relative;
+bottom: -20px;
+}
+.testislider .but .swiper-button-prev {
+  left: 45%;
+  background-color: #007aff;
+  border: 1px solid #007aff;
+  border-radius: 50px;
+  padding: 10px;
+}
+.testislider .but .swiper-button-next {
+  right: 45%;
+  background-color: #007aff;
+  border: 1px solid #007aff;
+  border-radius: 50px;
+  padding: 20px;
+}
+.testislider .but .swiper-button-prev:after , .testislider .but .swiper-button-next:after {
+  font-size: 25px;
+  color: white;
+}
+
+.testislider .but .swiper-button-prev:hover, .testislider .but .swiper-button-next:hover {
+background-color: transparent;
+border: 1px solid #007aff;
+
+}
+.testislider .but .swiper-button-prev:hover::after, .testislider .but .swiper-button-next:hover::after{
+  color: #007aff;
+  }
+  .fullstack-spot-sec {
+    padding: 30px;
+  }
+  
+  .fullstack-spot-sec .col-12 h3{
+    padding:20px;
+    font-size: 40px;
+    font-weight: 600;
+    text-align: center;
+  }
+  .fullstack-spot-sec .col-12 p{
+    text-align: center;
+  }
+
+  .spotlight-section {
+    text-align: center;
+  }
+  
+  .spotlight-section .title {
+    font-size: 32px;
+    font-weight: bold;
+  }
+  
+  .spotlight-section .subtitle {
+    color: #666;
+    margin-bottom: 20px;
+  }
+  
+  .spotlight-section .spotlight-slider {
+    padding: 20px 0;
+  }
+  
+  .spotlight-section .card {
+    background: #fff;
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    text-align: left;
+  }
+  
+  .spotlight-section .card img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .spotlight-section .content {
+    padding: 15px;
+  }
+  
+  .spotlight-section .content h3 {
+    font-size: 18px;
+    font-weight: bold;
+  }
+  
+  .spotlight-section .content p {
+    font-size: 14px;
+    color: #333;
+  }
+  
+  .spotlight-section .play-button {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    background: red;
+    color: white;
+    padding: 8px 12px;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    font-size: 14px;
+  }
+  
+
+  .spotlight-section .swiper-wrapper {
+    height: 500px;
+  }
+  
+  .spotlight-section .play-button svg {
+    font-size: 12px;
+  }
+  .spotlight-section .swiper-button-next , .spotlight-section .swiper-button-prev {
+    top:90%;
+  }
+  .spotlight-section .swiper-button-next {
+    left:40%;
+    padding: 20px;
+    background-color: #007aff;
+    border-radius: 50px;
+  }
+  .spotlight-section .swiper-button-prev {
+    left:35%;
+    padding: 20px;
+    background-color: #007aff;
+    border-radius: 50px;
+
+  }
+  .spotlight-section .swiper-button-prev::after, .spotlight-section .swiper-button-next::after {
+    font-size: 20px;
+    color: white;
+  }
+  .spotlight-section .swiper-button-prev:hover::after, .spotlight-section .swiper-button-next:hover::after {
+    border: 1px solid #007aff;
+  }
+  .fullstack-tech-sec {
+    padding: 30px;
+    background-color: #f6f9ff;
+  }
+
+  .fullstack-tech .col-12 h3 {
+    padding: 20px;
+    font-size: 40px;
+    font-weight: 600;
+  }
+  .fullstack-tech .col-12 p {
+    padding: 0 20px;
+  }
+  .fullstack-tech-tab {
+    height: 350px;
+    padding: 30px 0;
+  }
+  .scroll-container::-webkit-scrollbar {
+    width: 6px;
+  }
+  
+  .scroll-container::-webkit-scrollbar-track {
+    background: #eee;
+  }
+  
+  .scroll-container::-webkit-scrollbar-thumb {
+    background: #155dfc; /* Change to any color */
+    border-radius: 5px;
+  }
+  
+  .scroll-container::-webkit-scrollbar-thumb:hover {
+    background: #d14e2f;
+  }
+  
+  .fullstack-business ul li{
+    text-align: left;
+  }
+
+  .fullstack-tech-sec .cta {
+    height: 200px;
+  }
+
+  .fullstack-agency-sec {
+    padding: 30px;
+  }
+  .fullstack-agency h3 {
+    padding: 0 20px;
+    font-size: 40px;
+    font-weight: 600;
+}
+.fullstack-agency p, .fullstack-agency a, .fullstack-agency .grid {
+  padding: 0 20px;
+}
+.fullstack-faq .accordion .accordion-item {
+  margin: 10px;
+}
+.fullstack-faq .accordion .accordion-item .collapse {
+  visibility: visible;
+}
+.fullstack-faq-sec {
+  padding: 30px;
+  background-color: #f6f9ff;
+}
+.fullstack-contact-cta .col-8 h4 {
+  padding: 20px 0;
+  font-size: 30px;
+  color: white;
+}
+.fullstack-resource h4 {
+  font-size: 20px;
+  font-weight: 550;
+}
+.fullstack-resource .slick-slide img {
+  border: 1px solid #d6d6d6;
+  border-radius: 10px;
+}
+.full-stack-form {
+  width: 80%;
+}
+.full-stack-form .service {
+  font-size: 15px;
+}
+.fullstack-resource p {
+  font-size: 17px;
+  text-align: left;
+}
+.fullstack-resource .box {
+  width: 95%;
+}
+.fullstack-cta-btn {
+  background-color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 50px;
+  color: #155dfc;
+  font-weight: 600;
+  border: 1px solid white;
+}
+.fullstack-contact-cta .col-8 {
+  align-content: center;
+}
+.Full-stack-process h4 {
+  font-weight: 600;
+}
+.Full-stack-process p {
+  text-align: left;
+}
+.fullstack-business .flex ul {
+  padding: 0;
+  margin: 0;
+}
+/* full stack page ends */
