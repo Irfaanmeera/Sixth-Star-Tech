@@ -1,0 +1,5 @@
+deployment:
+  tasks:
+    - /bin/npm install
+    - /bin/npm run build
+    - /bin/touch tmp/restart.js
